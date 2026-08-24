@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 import pandas as pd
 import streamlit as st
-from src.config import APP_NAME, TAGLINE, ENCRYPTION_READY
+from config import APP_NAME, TAGLINE, ENCRYPTION_READY
 from src.auth import authenticate, can
 from src.audit import log_event, get_audit_logs
 from src.database import connect, init_db, insert_batch, latest_batch_id
