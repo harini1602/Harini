@@ -1,73 +1,1067 @@
 student_id,student_name,class_name,section,date,subject,marks,max_marks,term
-S1000,Learner 1,6,A,2026-08-24,Maths,89,100,Term 1
-S1000,Learner 1,6,A,2026-08-24,Science,90,100,Term 1
-S1000,Learner 1,6,A,2026-08-24,English,75,100,Term 1
-S1000,Learner 1,6,A,2026-08-24,Maths,38,100,Term 2
-S1000,Learner 1,6,A,2026-08-24,Science,67,100,Term 2
-S1000,Learner 1,6,A,2026-08-24,English,66,100,Term 2
-S1001,Learner 2,7,B,2026-08-24,Maths,87,100,Term 1
-S1001,Learner 2,7,B,2026-08-24,Science,58,100,Term 1
-S1001,Learner 2,7,B,2026-08-24,English,91,100,Term 1
-S1001,Learner 2,7,B,2026-08-24,Maths,51,100,Term 2
-S1001,Learner 2,7,B,2026-08-24,Science,68,100,Term 2
-S1001,Learner 2,7,B,2026-08-24,English,72,100,Term 2
-S1002,Learner 3,8,C,2026-08-24,Maths,44,100,Term 1
-S1002,Learner 3,8,C,2026-08-24,Science,92,100,Term 1
-S1002,Learner 3,8,C,2026-08-24,English,94,100,Term 1
-S1002,Learner 3,8,C,2026-08-24,Maths,88,100,Term 2
-S1002,Learner 3,8,C,2026-08-24,Science,51,100,Term 2
-S1002,Learner 3,8,C,2026-08-24,English,46,100,Term 2
-S1003,Learner 4,6,A,2026-08-24,Maths,87,100,Term 1
-S1003,Learner 4,6,A,2026-08-24,Science,63,100,Term 1
-S1003,Learner 4,6,A,2026-08-24,English,65,100,Term 1
-S1003,Learner 4,6,A,2026-08-24,Maths,62,100,Term 2
-S1003,Learner 4,6,A,2026-08-24,Science,44,100,Term 2
-S1003,Learner 4,6,A,2026-08-24,English,62,100,Term 2
-S1004,Learner 5,7,B,2026-08-24,Maths,37,100,Term 1
-S1004,Learner 5,7,B,2026-08-24,Science,66,100,Term 1
-S1004,Learner 5,7,B,2026-08-24,English,81,100,Term 1
-S1004,Learner 5,7,B,2026-08-24,Maths,45,100,Term 2
-S1004,Learner 5,7,B,2026-08-24,Science,94,100,Term 2
-S1004,Learner 5,7,B,2026-08-24,English,49,100,Term 2
-S1005,Learner 6,8,C,2026-08-24,Maths,91,100,Term 1
-S1005,Learner 6,8,C,2026-08-24,Science,67,100,Term 1
-S1005,Learner 6,8,C,2026-08-24,English,76,100,Term 1
-S1005,Learner 6,8,C,2026-08-24,Maths,82,100,Term 2
-S1005,Learner 6,8,C,2026-08-24,Science,48,100,Term 2
-S1005,Learner 6,8,C,2026-08-24,English,93,100,Term 2
-S1006,Learner 7,6,A,2026-08-24,Maths,60,100,Term 1
-S1006,Learner 7,6,A,2026-08-24,Science,35,100,Term 1
-S1006,Learner 7,6,A,2026-08-24,English,54,100,Term 1
-S1006,Learner 7,6,A,2026-08-24,Maths,48,100,Term 2
-S1006,Learner 7,6,A,2026-08-24,Science,86,100,Term 2
-S1006,Learner 7,6,A,2026-08-24,English,90,100,Term 2
-S1007,Learner 8,7,B,2026-08-24,Maths,64,100,Term 1
-S1007,Learner 8,7,B,2026-08-24,Science,87,100,Term 1
-S1007,Learner 8,7,B,2026-08-24,English,84,100,Term 1
-S1007,Learner 8,7,B,2026-08-24,Maths,81,100,Term 2
-S1007,Learner 8,7,B,2026-08-24,Science,49,100,Term 2
-S1007,Learner 8,7,B,2026-08-24,English,79,100,Term 2
-S1008,Learner 9,8,C,2026-08-24,Maths,90,100,Term 1
-S1008,Learner 9,8,C,2026-08-24,Science,87,100,Term 1
-S1008,Learner 9,8,C,2026-08-24,English,63,100,Term 1
-S1008,Learner 9,8,C,2026-08-24,Maths,93,100,Term 2
-S1008,Learner 9,8,C,2026-08-24,Science,41,100,Term 2
-S1008,Learner 9,8,C,2026-08-24,English,76,100,Term 2
-S1009,Learner 10,6,A,2026-08-24,Maths,73,100,Term 1
-S1009,Learner 10,6,A,2026-08-24,Science,71,100,Term 1
-S1009,Learner 10,6,A,2026-08-24,English,38,100,Term 1
-S1009,Learner 10,6,A,2026-08-24,Maths,64,100,Term 2
-S1009,Learner 10,6,A,2026-08-24,Science,80,100,Term 2
-S1009,Learner 10,6,A,2026-08-24,English,95,100,Term 2
-S1010,Learner 11,7,B,2026-08-24,Maths,77,100,Term 1
-S1010,Learner 11,7,B,2026-08-24,Science,79,100,Term 1
-S1010,Learner 11,7,B,2026-08-24,English,43,100,Term 1
-S1010,Learner 11,7,B,2026-08-24,Maths,57,100,Term 2
-S1010,Learner 11,7,B,2026-08-24,Science,36,100,Term 2
-S1010,Learner 11,7,B,2026-08-24,English,92,100,Term 2
-S1011,Learner 12,8,C,2026-08-24,Maths,89,100,Term 1
-S1011,Learner 12,8,C,2026-08-24,Science,78,100,Term 1
-S1011,Learner 12,8,C,2026-08-24,English,44,100,Term 1
-S1011,Learner 12,8,C,2026-08-24,Maths,79,100,Term 2
-S1011,Learner 12,8,C,2026-08-24,Science,59,100,Term 2
-S1011,Learner 12,8,C,2026-08-24,English,38,100,Term 2
+S1000,Learner 1,6,A,2026-06-13,Maths,55.2,100,Term 1
+S1000,Learner 1,6,A,2026-06-13,Science,56.1,100,Term 1
+S1000,Learner 1,6,A,2026-06-13,English,52.7,100,Term 1
+S1000,Learner 1,6,A,2026-06-13,Social Studies,59.8,100,Term 1
+S1000,Learner 1,6,A,2026-06-13,Hindi,85.0,100,Term 1
+S1000,Learner 1,6,A,2026-07-07,Maths,45.8,100,Term 2
+S1000,Learner 1,6,A,2026-07-07,Science,54.0,100,Term 2
+S1000,Learner 1,6,A,2026-07-07,English,40.0,100,Term 2
+S1000,Learner 1,6,A,2026-07-07,Social Studies,33.6,100,Term 2
+S1000,Learner 1,6,A,2026-07-07,Hindi,51.3,100,Term 2
+S1000,Learner 1,6,A,2026-07-31,Maths,65.0,100,Term 3
+S1000,Learner 1,6,A,2026-07-31,Science,41.9,100,Term 3
+S1000,Learner 1,6,A,2026-07-31,English,46.6,100,Term 3
+S1000,Learner 1,6,A,2026-07-31,Social Studies,46.0,100,Term 3
+S1000,Learner 1,6,A,2026-07-31,Hindi,37.3,100,Term 3
+S1001,Learner 2,7,B,2026-06-13,Maths,50.3,100,Term 1
+S1001,Learner 2,7,B,2026-06-13,Science,77.0,100,Term 1
+S1001,Learner 2,7,B,2026-06-13,English,71.7,100,Term 1
+S1001,Learner 2,7,B,2026-06-13,Social Studies,74.1,100,Term 1
+S1001,Learner 2,7,B,2026-06-13,Hindi,66.9,100,Term 1
+S1001,Learner 2,7,B,2026-07-07,Maths,77.6,100,Term 2
+S1001,Learner 2,7,B,2026-07-07,Science,98,100,Term 2
+S1001,Learner 2,7,B,2026-07-07,English,68.3,100,Term 2
+S1001,Learner 2,7,B,2026-07-07,Social Studies,61.4,100,Term 2
+S1001,Learner 2,7,B,2026-07-07,Hindi,88.4,100,Term 2
+S1001,Learner 2,7,B,2026-07-31,Maths,78.1,100,Term 3
+S1001,Learner 2,7,B,2026-07-31,Science,96.0,100,Term 3
+S1001,Learner 2,7,B,2026-07-31,English,67.7,100,Term 3
+S1001,Learner 2,7,B,2026-07-31,Social Studies,75.4,100,Term 3
+S1001,Learner 2,7,B,2026-07-31,Hindi,57.1,100,Term 3
+S1002,Learner 3,8,C,2026-06-13,Maths,43.3,100,Term 1
+S1002,Learner 3,8,C,2026-06-13,Science,38.4,100,Term 1
+S1002,Learner 3,8,C,2026-06-13,English,33.8,100,Term 1
+S1002,Learner 3,8,C,2026-06-13,Social Studies,58.4,100,Term 1
+S1002,Learner 3,8,C,2026-06-13,Hindi,55.3,100,Term 1
+S1002,Learner 3,8,C,2026-07-07,Maths,19.2,100,Term 2
+S1002,Learner 3,8,C,2026-07-07,Science,43.3,100,Term 2
+S1002,Learner 3,8,C,2026-07-07,English,75.3,100,Term 2
+S1002,Learner 3,8,C,2026-07-07,Social Studies,27.3,100,Term 2
+S1002,Learner 3,8,C,2026-07-07,Hindi,46.2,100,Term 2
+S1002,Learner 3,8,C,2026-07-31,Science,52.8,100,Term 3
+S1002,Learner 3,8,C,2026-07-31,English,43.6,100,Term 3
+S1002,Learner 3,8,C,2026-07-31,Social Studies,54.8,100,Term 3
+S1002,Learner 3,8,C,2026-07-31,Hindi,44.8,100,Term 3
+S1003,Learner 4,6,A,2026-06-13,Maths,67.6,100,Term 1
+S1003,Learner 4,6,A,2026-06-13,Science,86.5,100,Term 1
+S1003,Learner 4,6,A,2026-06-13,English,77.0,100,Term 1
+S1003,Learner 4,6,A,2026-06-13,Social Studies,87.6,100,Term 1
+S1003,Learner 4,6,A,2026-06-13,Hindi,88.7,100,Term 1
+S1003,Learner 4,6,A,2026-07-07,Maths,37.7,100,Term 2
+S1003,Learner 4,6,A,2026-07-07,Science,55.5,100,Term 2
+S1003,Learner 4,6,A,2026-07-07,English,48.3,100,Term 2
+S1003,Learner 4,6,A,2026-07-07,Social Studies,61.7,100,Term 2
+S1003,Learner 4,6,A,2026-07-07,Hindi,40.6,100,Term 2
+S1003,Learner 4,6,A,2026-07-31,Maths,18.2,100,Term 3
+S1003,Learner 4,6,A,2026-07-31,Science,18.2,100,Term 3
+S1003,Learner 4,6,A,2026-07-31,English,44.7,100,Term 3
+S1003,Learner 4,6,A,2026-07-31,Social Studies,30.9,100,Term 3
+S1003,Learner 4,6,A,2026-07-31,Hindi,52.4,100,Term 3
+S1004,Learner 5,7,B,2026-06-13,Maths,83.6,100,Term 1
+S1004,Learner 5,7,B,2026-06-13,Science,80.7,100,Term 1
+S1004,Learner 5,7,B,2026-06-13,English,68.2,100,Term 1
+S1004,Learner 5,7,B,2026-06-13,Social Studies,60.3,100,Term 1
+S1004,Learner 5,7,B,2026-06-13,Hindi,65.3,100,Term 1
+S1004,Learner 5,7,B,2026-07-07,Maths,58.3,100,Term 2
+S1004,Learner 5,7,B,2026-07-07,Science,57.1,100,Term 2
+S1004,Learner 5,7,B,2026-07-07,English,56.2,100,Term 2
+S1004,Learner 5,7,B,2026-07-07,Social Studies,58.1,100,Term 2
+S1004,Learner 5,7,B,2026-07-07,Hindi,72.1,100,Term 2
+S1004,Learner 5,7,B,2026-07-31,Science,51.7,100,Term 3
+S1004,Learner 5,7,B,2026-07-31,English,31.3,100,Term 3
+S1004,Learner 5,7,B,2026-07-31,Social Studies,42.4,100,Term 3
+S1004,Learner 5,7,B,2026-07-31,Hindi,42.1,100,Term 3
+S1005,Learner 6,8,C,2026-06-13,Maths,85.1,100,Term 1
+S1005,Learner 6,8,C,2026-06-13,Science,83.8,100,Term 1
+S1005,Learner 6,8,C,2026-06-13,English,64.5,100,Term 1
+S1005,Learner 6,8,C,2026-06-13,Social Studies,74.9,100,Term 1
+S1005,Learner 6,8,C,2026-06-13,Hindi,80.1,100,Term 1
+S1005,Learner 6,8,C,2026-07-07,Maths,74.0,100,Term 2
+S1005,Learner 6,8,C,2026-07-07,Science,91.4,100,Term 2
+S1005,Learner 6,8,C,2026-07-07,English,62.3,100,Term 2
+S1005,Learner 6,8,C,2026-07-07,Social Studies,81.2,100,Term 2
+S1005,Learner 6,8,C,2026-07-07,Hindi,77.8,100,Term 2
+S1005,Learner 6,8,C,2026-07-31,Maths,71.3,100,Term 3
+S1005,Learner 6,8,C,2026-07-31,Science,74.8,100,Term 3
+S1005,Learner 6,8,C,2026-07-31,English,73.3,100,Term 3
+S1005,Learner 6,8,C,2026-07-31,Social Studies,78.8,100,Term 3
+S1005,Learner 6,8,C,2026-07-31,Hindi,70.3,100,Term 3
+S1006,Learner 7,6,A,2026-06-13,Maths,72.6,100,Term 1
+S1006,Learner 7,6,A,2026-06-13,Science,98,100,Term 1
+S1006,Learner 7,6,A,2026-06-13,English,71.4,100,Term 1
+S1006,Learner 7,6,A,2026-06-13,Social Studies,81.4,100,Term 1
+S1006,Learner 7,6,A,2026-06-13,Hindi,86.6,100,Term 1
+S1006,Learner 7,6,A,2026-07-07,Maths,67.2,100,Term 2
+S1006,Learner 7,6,A,2026-07-07,Science,83.9,100,Term 2
+S1006,Learner 7,6,A,2026-07-07,English,69.8,100,Term 2
+S1006,Learner 7,6,A,2026-07-07,Social Studies,51.0,100,Term 2
+S1006,Learner 7,6,A,2026-07-07,Hindi,76.1,100,Term 2
+S1006,Learner 7,6,A,2026-07-31,Maths,46.1,100,Term 3
+S1006,Learner 7,6,A,2026-07-31,Science,74.7,100,Term 3
+S1006,Learner 7,6,A,2026-07-31,English,83.0,100,Term 3
+S1006,Learner 7,6,A,2026-07-31,Social Studies,93.5,100,Term 3
+S1006,Learner 7,6,A,2026-07-31,Hindi,82.4,100,Term 3
+S1007,Learner 8,7,B,2026-06-13,Maths,86.4,100,Term 1
+S1007,Learner 8,7,B,2026-06-13,Science,82.2,100,Term 1
+S1007,Learner 8,7,B,2026-06-13,English,76.0,100,Term 1
+S1007,Learner 8,7,B,2026-06-13,Social Studies,86.4,100,Term 1
+S1007,Learner 8,7,B,2026-06-13,Hindi,72.3,100,Term 1
+S1007,Learner 8,7,B,2026-07-07,Maths,78.8,100,Term 2
+S1007,Learner 8,7,B,2026-07-07,Science,68.9,100,Term 2
+S1007,Learner 8,7,B,2026-07-07,English,73.2,100,Term 2
+S1007,Learner 8,7,B,2026-07-07,Social Studies,79.7,100,Term 2
+S1007,Learner 8,7,B,2026-07-07,Hindi,57.2,100,Term 2
+S1007,Learner 8,7,B,2026-07-31,Maths,69.5,100,Term 3
+S1007,Learner 8,7,B,2026-07-31,Science,66.3,100,Term 3
+S1007,Learner 8,7,B,2026-07-31,English,75.2,100,Term 3
+S1007,Learner 8,7,B,2026-07-31,Social Studies,95.1,100,Term 3
+S1007,Learner 8,7,B,2026-07-31,Hindi,66.8,100,Term 3
+S1008,Learner 9,8,C,2026-06-13,Maths,74.0,100,Term 1
+S1008,Learner 9,8,C,2026-06-13,Science,72.6,100,Term 1
+S1008,Learner 9,8,C,2026-06-13,English,68.3,100,Term 1
+S1008,Learner 9,8,C,2026-06-13,Social Studies,68.4,100,Term 1
+S1008,Learner 9,8,C,2026-06-13,Hindi,85.1,100,Term 1
+S1008,Learner 9,8,C,2026-07-07,Maths,73.5,100,Term 2
+S1008,Learner 9,8,C,2026-07-07,Science,68.5,100,Term 2
+S1008,Learner 9,8,C,2026-07-07,English,64.0,100,Term 2
+S1008,Learner 9,8,C,2026-07-07,Social Studies,67.4,100,Term 2
+S1008,Learner 9,8,C,2026-07-07,Hindi,84.5,100,Term 2
+S1008,Learner 9,8,C,2026-07-31,Maths,66.3,100,Term 3
+S1008,Learner 9,8,C,2026-07-31,Science,56.5,100,Term 3
+S1008,Learner 9,8,C,2026-07-31,English,66.5,100,Term 3
+S1008,Learner 9,8,C,2026-07-31,Social Studies,76.1,100,Term 3
+S1008,Learner 9,8,C,2026-07-31,Hindi,79.4,100,Term 3
+S1009,Learner 10,6,A,2026-06-13,Maths,75.5,100,Term 1
+S1009,Learner 10,6,A,2026-06-13,Science,83.7,100,Term 1
+S1009,Learner 10,6,A,2026-06-13,English,62.9,100,Term 1
+S1009,Learner 10,6,A,2026-06-13,Social Studies,65.8,100,Term 1
+S1009,Learner 10,6,A,2026-06-13,Hindi,72.2,100,Term 1
+S1009,Learner 10,6,A,2026-07-07,Maths,76.1,100,Term 2
+S1009,Learner 10,6,A,2026-07-07,Science,54.9,100,Term 2
+S1009,Learner 10,6,A,2026-07-07,English,73.8,100,Term 2
+S1009,Learner 10,6,A,2026-07-07,Social Studies,59.5,100,Term 2
+S1009,Learner 10,6,A,2026-07-07,Hindi,84.7,100,Term 2
+S1009,Learner 10,6,A,2026-07-31,Maths,77.9,100,Term 3
+S1009,Learner 10,6,A,2026-07-31,Science,92.1,100,Term 3
+S1009,Learner 10,6,A,2026-07-31,English,94.8,100,Term 3
+S1009,Learner 10,6,A,2026-07-31,Social Studies,80.3,100,Term 3
+S1009,Learner 10,6,A,2026-07-31,Hindi,72.5,100,Term 3
+S1010,Learner 11,7,B,2026-06-13,Maths,64.8,100,Term 1
+S1010,Learner 11,7,B,2026-06-13,Science,69.1,100,Term 1
+S1010,Learner 11,7,B,2026-06-13,English,85.6,100,Term 1
+S1010,Learner 11,7,B,2026-06-13,Social Studies,78.9,100,Term 1
+S1010,Learner 11,7,B,2026-06-13,Hindi,75.8,100,Term 1
+S1010,Learner 11,7,B,2026-07-07,Maths,61.7,100,Term 2
+S1010,Learner 11,7,B,2026-07-07,Science,72.7,100,Term 2
+S1010,Learner 11,7,B,2026-07-07,English,92.6,100,Term 2
+S1010,Learner 11,7,B,2026-07-07,Social Studies,72.8,100,Term 2
+S1010,Learner 11,7,B,2026-07-07,Hindi,88.1,100,Term 2
+S1010,Learner 11,7,B,2026-07-31,Maths,51.7,100,Term 3
+S1010,Learner 11,7,B,2026-07-31,Science,89.2,100,Term 3
+S1010,Learner 11,7,B,2026-07-31,English,65.3,100,Term 3
+S1010,Learner 11,7,B,2026-07-31,Social Studies,61.5,100,Term 3
+S1010,Learner 11,7,B,2026-07-31,Hindi,71.6,100,Term 3
+S1011,Learner 12,8,C,2026-06-13,Maths,67.2,100,Term 1
+S1011,Learner 12,8,C,2026-06-13,Science,91.3,100,Term 1
+S1011,Learner 12,8,C,2026-06-13,English,72.4,100,Term 1
+S1011,Learner 12,8,C,2026-06-13,Social Studies,73.1,100,Term 1
+S1011,Learner 12,8,C,2026-06-13,Hindi,68.5,100,Term 1
+S1011,Learner 12,8,C,2026-07-07,Maths,82.9,100,Term 2
+S1011,Learner 12,8,C,2026-07-07,Science,87.1,100,Term 2
+S1011,Learner 12,8,C,2026-07-07,English,84.2,100,Term 2
+S1011,Learner 12,8,C,2026-07-07,Social Studies,60.2,100,Term 2
+S1011,Learner 12,8,C,2026-07-07,Hindi,72.9,100,Term 2
+S1011,Learner 12,8,C,2026-07-31,Maths,80.5,100,Term 3
+S1011,Learner 12,8,C,2026-07-31,Science,55.6,100,Term 3
+S1011,Learner 12,8,C,2026-07-31,English,73.9,100,Term 3
+S1011,Learner 12,8,C,2026-07-31,Social Studies,84.6,100,Term 3
+S1011,Learner 12,8,C,2026-07-31,Hindi,89.9,100,Term 3
+S1012,Learner 13,6,A,2026-06-13,Maths,55.1,100,Term 1
+S1012,Learner 13,6,A,2026-06-13,Science,58.6,100,Term 1
+S1012,Learner 13,6,A,2026-06-13,English,58.9,100,Term 1
+S1012,Learner 13,6,A,2026-06-13,Social Studies,53.8,100,Term 1
+S1012,Learner 13,6,A,2026-06-13,Hindi,31.6,100,Term 1
+S1012,Learner 13,6,A,2026-07-07,Maths,68.5,100,Term 2
+S1012,Learner 13,6,A,2026-07-07,Science,57.3,100,Term 2
+S1012,Learner 13,6,A,2026-07-07,English,49.5,100,Term 2
+S1012,Learner 13,6,A,2026-07-07,Social Studies,42.3,100,Term 2
+S1012,Learner 13,6,A,2026-07-07,Hindi,73.3,100,Term 2
+S1012,Learner 13,6,A,2026-07-31,Maths,53.9,100,Term 3
+S1012,Learner 13,6,A,2026-07-31,Science,59.3,100,Term 3
+S1012,Learner 13,6,A,2026-07-31,English,46.6,100,Term 3
+S1012,Learner 13,6,A,2026-07-31,Social Studies,52.8,100,Term 3
+S1012,Learner 13,6,A,2026-07-31,Hindi,50.4,100,Term 3
+S1013,Learner 14,7,B,2026-06-13,Maths,74.0,100,Term 1
+S1013,Learner 14,7,B,2026-06-13,Science,56.6,100,Term 1
+S1013,Learner 14,7,B,2026-06-13,English,93.0,100,Term 1
+S1013,Learner 14,7,B,2026-06-13,Social Studies,75.3,100,Term 1
+S1013,Learner 14,7,B,2026-06-13,Hindi,82.7,100,Term 1
+S1013,Learner 14,7,B,2026-07-07,Maths,73.2,100,Term 2
+S1013,Learner 14,7,B,2026-07-07,Science,70.1,100,Term 2
+S1013,Learner 14,7,B,2026-07-07,English,83.4,100,Term 2
+S1013,Learner 14,7,B,2026-07-07,Social Studies,63.8,100,Term 2
+S1013,Learner 14,7,B,2026-07-07,Hindi,77.6,100,Term 2
+S1013,Learner 14,7,B,2026-07-31,Maths,55.4,100,Term 3
+S1013,Learner 14,7,B,2026-07-31,Science,85.7,100,Term 3
+S1013,Learner 14,7,B,2026-07-31,English,89.7,100,Term 3
+S1013,Learner 14,7,B,2026-07-31,Social Studies,63.4,100,Term 3
+S1013,Learner 14,7,B,2026-07-31,Hindi,78.4,100,Term 3
+S1014,Learner 15,8,C,2026-06-13,Maths,31.0,100,Term 1
+S1014,Learner 15,8,C,2026-06-13,Science,36.3,100,Term 1
+S1014,Learner 15,8,C,2026-06-13,English,49.5,100,Term 1
+S1014,Learner 15,8,C,2026-06-13,Social Studies,60.4,100,Term 1
+S1014,Learner 15,8,C,2026-06-13,Hindi,61.7,100,Term 1
+S1014,Learner 15,8,C,2026-07-07,Maths,32.9,100,Term 2
+S1014,Learner 15,8,C,2026-07-07,Science,47.6,100,Term 2
+S1014,Learner 15,8,C,2026-07-07,English,64.7,100,Term 2
+S1014,Learner 15,8,C,2026-07-07,Social Studies,50.0,100,Term 2
+S1014,Learner 15,8,C,2026-07-07,Hindi,68.1,100,Term 2
+S1014,Learner 15,8,C,2026-07-31,Science,42.5,100,Term 3
+S1014,Learner 15,8,C,2026-07-31,English,47.2,100,Term 3
+S1014,Learner 15,8,C,2026-07-31,Social Studies,58.3,100,Term 3
+S1014,Learner 15,8,C,2026-07-31,Hindi,48.1,100,Term 3
+S1015,Learner 16,6,A,2026-06-13,Maths,64.2,100,Term 1
+S1015,Learner 16,6,A,2026-06-13,Science,79.8,100,Term 1
+S1015,Learner 16,6,A,2026-06-13,English,60.0,100,Term 1
+S1015,Learner 16,6,A,2026-06-13,Social Studies,71.0,100,Term 1
+S1015,Learner 16,6,A,2026-06-13,Hindi,71.5,100,Term 1
+S1015,Learner 16,6,A,2026-07-07,Maths,36.7,100,Term 2
+S1015,Learner 16,6,A,2026-07-07,Science,59.7,100,Term 2
+S1015,Learner 16,6,A,2026-07-07,English,53.5,100,Term 2
+S1015,Learner 16,6,A,2026-07-07,Social Studies,53.0,100,Term 2
+S1015,Learner 16,6,A,2026-07-07,Hindi,71.5,100,Term 2
+S1015,Learner 16,6,A,2026-07-31,Maths,41.9,100,Term 3
+S1015,Learner 16,6,A,2026-07-31,Science,37.1,100,Term 3
+S1015,Learner 16,6,A,2026-07-31,English,33.8,100,Term 3
+S1015,Learner 16,6,A,2026-07-31,Social Studies,23.9,100,Term 3
+S1015,Learner 16,6,A,2026-07-31,Hindi,21.3,100,Term 3
+S1016,Learner 17,7,B,2026-06-13,Maths,90.6,100,Term 1
+S1016,Learner 17,7,B,2026-06-13,Science,75.6,100,Term 1
+S1016,Learner 17,7,B,2026-06-13,English,66.9,100,Term 1
+S1016,Learner 17,7,B,2026-06-13,Social Studies,61.9,100,Term 1
+S1016,Learner 17,7,B,2026-06-13,Hindi,87.3,100,Term 1
+S1016,Learner 17,7,B,2026-07-07,Maths,54.2,100,Term 2
+S1016,Learner 17,7,B,2026-07-07,Science,63.2,100,Term 2
+S1016,Learner 17,7,B,2026-07-07,English,66.5,100,Term 2
+S1016,Learner 17,7,B,2026-07-07,Social Studies,49.1,100,Term 2
+S1016,Learner 17,7,B,2026-07-07,Hindi,43.3,100,Term 2
+S1016,Learner 17,7,B,2026-07-31,Maths,38.0,100,Term 3
+S1016,Learner 17,7,B,2026-07-31,English,38.0,100,Term 3
+S1016,Learner 17,7,B,2026-07-31,Social Studies,43.1,100,Term 3
+S1016,Learner 17,7,B,2026-07-31,Hindi,29.9,100,Term 3
+S1017,Learner 18,8,C,2026-06-13,Maths,82.1,100,Term 1
+S1017,Learner 18,8,C,2026-06-13,Science,84.9,100,Term 1
+S1017,Learner 18,8,C,2026-06-13,English,64.1,100,Term 1
+S1017,Learner 18,8,C,2026-06-13,Social Studies,67.0,100,Term 1
+S1017,Learner 18,8,C,2026-06-13,Hindi,71.2,100,Term 1
+S1017,Learner 18,8,C,2026-07-07,Maths,68.8,100,Term 2
+S1017,Learner 18,8,C,2026-07-07,Science,72.4,100,Term 2
+S1017,Learner 18,8,C,2026-07-07,English,85.9,100,Term 2
+S1017,Learner 18,8,C,2026-07-07,Social Studies,61.4,100,Term 2
+S1017,Learner 18,8,C,2026-07-07,Hindi,79.0,100,Term 2
+S1017,Learner 18,8,C,2026-07-31,Maths,71.1,100,Term 3
+S1017,Learner 18,8,C,2026-07-31,Science,68.1,100,Term 3
+S1017,Learner 18,8,C,2026-07-31,English,61.2,100,Term 3
+S1017,Learner 18,8,C,2026-07-31,Social Studies,54.6,100,Term 3
+S1017,Learner 18,8,C,2026-07-31,Hindi,75.9,100,Term 3
+S1018,Learner 19,6,A,2026-06-13,Maths,89.3,100,Term 1
+S1018,Learner 19,6,A,2026-06-13,Science,66.2,100,Term 1
+S1018,Learner 19,6,A,2026-06-13,English,82.2,100,Term 1
+S1018,Learner 19,6,A,2026-06-13,Social Studies,62.9,100,Term 1
+S1018,Learner 19,6,A,2026-06-13,Hindi,79.8,100,Term 1
+S1018,Learner 19,6,A,2026-07-07,Maths,72.3,100,Term 2
+S1018,Learner 19,6,A,2026-07-07,Science,71.6,100,Term 2
+S1018,Learner 19,6,A,2026-07-07,English,61.0,100,Term 2
+S1018,Learner 19,6,A,2026-07-07,Social Studies,69.9,100,Term 2
+S1018,Learner 19,6,A,2026-07-07,Hindi,70.8,100,Term 2
+S1018,Learner 19,6,A,2026-07-31,Maths,88.4,100,Term 3
+S1018,Learner 19,6,A,2026-07-31,Science,81.6,100,Term 3
+S1018,Learner 19,6,A,2026-07-31,English,79.6,100,Term 3
+S1018,Learner 19,6,A,2026-07-31,Social Studies,68.9,100,Term 3
+S1018,Learner 19,6,A,2026-07-31,Hindi,77.6,100,Term 3
+S1019,Learner 20,7,B,2026-06-13,Maths,82.9,100,Term 1
+S1019,Learner 20,7,B,2026-06-13,Science,88.5,100,Term 1
+S1019,Learner 20,7,B,2026-06-13,English,84.3,100,Term 1
+S1019,Learner 20,7,B,2026-06-13,Social Studies,93.8,100,Term 1
+S1019,Learner 20,7,B,2026-06-13,Hindi,73.2,100,Term 1
+S1019,Learner 20,7,B,2026-07-07,Maths,66.1,100,Term 2
+S1019,Learner 20,7,B,2026-07-07,Science,88.0,100,Term 2
+S1019,Learner 20,7,B,2026-07-07,English,93.2,100,Term 2
+S1019,Learner 20,7,B,2026-07-07,Social Studies,84.4,100,Term 2
+S1019,Learner 20,7,B,2026-07-07,Hindi,75.6,100,Term 2
+S1019,Learner 20,7,B,2026-07-31,Maths,76.7,100,Term 3
+S1019,Learner 20,7,B,2026-07-31,Science,72.2,100,Term 3
+S1019,Learner 20,7,B,2026-07-31,English,72.0,100,Term 3
+S1019,Learner 20,7,B,2026-07-31,Social Studies,75.5,100,Term 3
+S1019,Learner 20,7,B,2026-07-31,Hindi,79.4,100,Term 3
+S1020,Learner 21,8,C,2026-06-13,Maths,64.0,100,Term 1
+S1020,Learner 21,8,C,2026-06-13,Science,80.3,100,Term 1
+S1020,Learner 21,8,C,2026-06-13,English,77.0,100,Term 1
+S1020,Learner 21,8,C,2026-06-13,Social Studies,73.3,100,Term 1
+S1020,Learner 21,8,C,2026-06-13,Hindi,78.3,100,Term 1
+S1020,Learner 21,8,C,2026-07-07,Maths,71.7,100,Term 2
+S1020,Learner 21,8,C,2026-07-07,Science,78.3,100,Term 2
+S1020,Learner 21,8,C,2026-07-07,English,89.9,100,Term 2
+S1020,Learner 21,8,C,2026-07-07,Social Studies,71.2,100,Term 2
+S1020,Learner 21,8,C,2026-07-07,Hindi,83.6,100,Term 2
+S1020,Learner 21,8,C,2026-07-31,Maths,69.6,100,Term 3
+S1020,Learner 21,8,C,2026-07-31,Science,73.1,100,Term 3
+S1020,Learner 21,8,C,2026-07-31,English,77.8,100,Term 3
+S1020,Learner 21,8,C,2026-07-31,Social Studies,69.4,100,Term 3
+S1020,Learner 21,8,C,2026-07-31,Hindi,85.7,100,Term 3
+S1021,Learner 22,6,A,2026-06-13,Maths,60.6,100,Term 1
+S1021,Learner 22,6,A,2026-06-13,Science,73.6,100,Term 1
+S1021,Learner 22,6,A,2026-06-13,English,75.4,100,Term 1
+S1021,Learner 22,6,A,2026-06-13,Social Studies,76.4,100,Term 1
+S1021,Learner 22,6,A,2026-06-13,Hindi,73.6,100,Term 1
+S1021,Learner 22,6,A,2026-07-07,Maths,65.5,100,Term 2
+S1021,Learner 22,6,A,2026-07-07,Science,75.7,100,Term 2
+S1021,Learner 22,6,A,2026-07-07,English,89.0,100,Term 2
+S1021,Learner 22,6,A,2026-07-07,Social Studies,81.4,100,Term 2
+S1021,Learner 22,6,A,2026-07-07,Hindi,73.9,100,Term 2
+S1021,Learner 22,6,A,2026-07-31,Maths,62.9,100,Term 3
+S1021,Learner 22,6,A,2026-07-31,Science,66.3,100,Term 3
+S1021,Learner 22,6,A,2026-07-31,English,83.0,100,Term 3
+S1021,Learner 22,6,A,2026-07-31,Social Studies,69.9,100,Term 3
+S1021,Learner 22,6,A,2026-07-31,Hindi,72.2,100,Term 3
+S1022,Learner 23,7,B,2026-06-13,Maths,98,100,Term 1
+S1022,Learner 23,7,B,2026-06-13,Science,51.6,100,Term 1
+S1022,Learner 23,7,B,2026-06-13,English,84.5,100,Term 1
+S1022,Learner 23,7,B,2026-06-13,Social Studies,52.0,100,Term 1
+S1022,Learner 23,7,B,2026-06-13,Hindi,62.0,100,Term 1
+S1022,Learner 23,7,B,2026-07-07,Maths,98,100,Term 2
+S1022,Learner 23,7,B,2026-07-07,Science,86.3,100,Term 2
+S1022,Learner 23,7,B,2026-07-07,English,80.9,100,Term 2
+S1022,Learner 23,7,B,2026-07-07,Social Studies,83.3,100,Term 2
+S1022,Learner 23,7,B,2026-07-07,Hindi,84.2,100,Term 2
+S1022,Learner 23,7,B,2026-07-31,Maths,69.6,100,Term 3
+S1022,Learner 23,7,B,2026-07-31,Science,61.7,100,Term 3
+S1022,Learner 23,7,B,2026-07-31,English,67.2,100,Term 3
+S1022,Learner 23,7,B,2026-07-31,Social Studies,78.6,100,Term 3
+S1022,Learner 23,7,B,2026-07-31,Hindi,79.7,100,Term 3
+S1023,Learner 24,8,C,2026-06-13,Maths,85.4,100,Term 1
+S1023,Learner 24,8,C,2026-06-13,Science,74.7,100,Term 1
+S1023,Learner 24,8,C,2026-06-13,English,82.4,100,Term 1
+S1023,Learner 24,8,C,2026-06-13,Social Studies,74.9,100,Term 1
+S1023,Learner 24,8,C,2026-06-13,Hindi,64.0,100,Term 1
+S1023,Learner 24,8,C,2026-07-07,Maths,69.9,100,Term 2
+S1023,Learner 24,8,C,2026-07-07,Science,78.5,100,Term 2
+S1023,Learner 24,8,C,2026-07-07,English,74.1,100,Term 2
+S1023,Learner 24,8,C,2026-07-07,Social Studies,69.7,100,Term 2
+S1023,Learner 24,8,C,2026-07-07,Hindi,74.7,100,Term 2
+S1023,Learner 24,8,C,2026-07-31,Maths,88.8,100,Term 3
+S1023,Learner 24,8,C,2026-07-31,Science,67.9,100,Term 3
+S1023,Learner 24,8,C,2026-07-31,English,50.4,100,Term 3
+S1023,Learner 24,8,C,2026-07-31,Social Studies,75.6,100,Term 3
+S1023,Learner 24,8,C,2026-07-31,Hindi,51.7,100,Term 3
+S1024,Learner 25,6,A,2026-06-13,Maths,65.0,100,Term 1
+S1024,Learner 25,6,A,2026-06-13,Science,43.3,100,Term 1
+S1024,Learner 25,6,A,2026-06-13,English,50.3,100,Term 1
+S1024,Learner 25,6,A,2026-06-13,Social Studies,47.5,100,Term 1
+S1024,Learner 25,6,A,2026-06-13,Hindi,51.4,100,Term 1
+S1024,Learner 25,6,A,2026-07-07,Maths,52.6,100,Term 2
+S1024,Learner 25,6,A,2026-07-07,Science,61.5,100,Term 2
+S1024,Learner 25,6,A,2026-07-07,English,38.9,100,Term 2
+S1024,Learner 25,6,A,2026-07-07,Social Studies,45.6,100,Term 2
+S1024,Learner 25,6,A,2026-07-07,Hindi,45.3,100,Term 2
+S1024,Learner 25,6,A,2026-07-31,Maths,47.3,100,Term 3
+S1024,Learner 25,6,A,2026-07-31,Science,55.7,100,Term 3
+S1024,Learner 25,6,A,2026-07-31,English,30.2,100,Term 3
+S1024,Learner 25,6,A,2026-07-31,Social Studies,28.2,100,Term 3
+S1024,Learner 25,6,A,2026-07-31,Hindi,50.0,100,Term 3
+S1025,Learner 26,7,B,2026-06-13,Maths,66.8,100,Term 1
+S1025,Learner 26,7,B,2026-06-13,Science,80.2,100,Term 1
+S1025,Learner 26,7,B,2026-06-13,English,84.4,100,Term 1
+S1025,Learner 26,7,B,2026-06-13,Social Studies,90.5,100,Term 1
+S1025,Learner 26,7,B,2026-06-13,Hindi,65.3,100,Term 1
+S1025,Learner 26,7,B,2026-07-07,Maths,59.5,100,Term 2
+S1025,Learner 26,7,B,2026-07-07,Science,77.3,100,Term 2
+S1025,Learner 26,7,B,2026-07-07,English,80.5,100,Term 2
+S1025,Learner 26,7,B,2026-07-07,Social Studies,79.6,100,Term 2
+S1025,Learner 26,7,B,2026-07-07,Hindi,77.9,100,Term 2
+S1025,Learner 26,7,B,2026-07-31,Maths,52.9,100,Term 3
+S1025,Learner 26,7,B,2026-07-31,Science,98.0,100,Term 3
+S1025,Learner 26,7,B,2026-07-31,English,74.7,100,Term 3
+S1025,Learner 26,7,B,2026-07-31,Social Studies,79.2,100,Term 3
+S1025,Learner 26,7,B,2026-07-31,Hindi,65.1,100,Term 3
+S1026,Learner 27,8,C,2026-06-13,Maths,41.3,100,Term 1
+S1026,Learner 27,8,C,2026-06-13,Science,46.3,100,Term 1
+S1026,Learner 27,8,C,2026-06-13,English,61.0,100,Term 1
+S1026,Learner 27,8,C,2026-06-13,Social Studies,59.1,100,Term 1
+S1026,Learner 27,8,C,2026-06-13,Hindi,44.2,100,Term 1
+S1026,Learner 27,8,C,2026-07-07,Maths,38.7,100,Term 2
+S1026,Learner 27,8,C,2026-07-07,Science,51.0,100,Term 2
+S1026,Learner 27,8,C,2026-07-07,English,53.1,100,Term 2
+S1026,Learner 27,8,C,2026-07-07,Social Studies,64.2,100,Term 2
+S1026,Learner 27,8,C,2026-07-07,Hindi,42.5,100,Term 2
+S1026,Learner 27,8,C,2026-07-31,Maths,49.6,100,Term 3
+S1026,Learner 27,8,C,2026-07-31,Science,49.7,100,Term 3
+S1026,Learner 27,8,C,2026-07-31,English,37.4,100,Term 3
+S1026,Learner 27,8,C,2026-07-31,Social Studies,63.2,100,Term 3
+S1026,Learner 27,8,C,2026-07-31,Hindi,53.9,100,Term 3
+S1027,Learner 28,6,A,2026-06-13,Maths,59.5,100,Term 1
+S1027,Learner 28,6,A,2026-06-13,Science,82.9,100,Term 1
+S1027,Learner 28,6,A,2026-06-13,English,76.6,100,Term 1
+S1027,Learner 28,6,A,2026-06-13,Social Studies,67.6,100,Term 1
+S1027,Learner 28,6,A,2026-06-13,Hindi,71.0,100,Term 1
+S1027,Learner 28,6,A,2026-07-07,Maths,64.8,100,Term 2
+S1027,Learner 28,6,A,2026-07-07,Science,59.1,100,Term 2
+S1027,Learner 28,6,A,2026-07-07,English,60.5,100,Term 2
+S1027,Learner 28,6,A,2026-07-07,Social Studies,47.1,100,Term 2
+S1027,Learner 28,6,A,2026-07-07,Hindi,78.2,100,Term 2
+S1027,Learner 28,6,A,2026-07-31,Maths,33.6,100,Term 3
+S1027,Learner 28,6,A,2026-07-31,Science,36.3,100,Term 3
+S1027,Learner 28,6,A,2026-07-31,English,39.2,100,Term 3
+S1027,Learner 28,6,A,2026-07-31,Social Studies,33.8,100,Term 3
+S1027,Learner 28,6,A,2026-07-31,Hindi,52.5,100,Term 3
+S1028,Learner 29,7,B,2026-06-13,Maths,84.7,100,Term 1
+S1028,Learner 29,7,B,2026-06-13,Science,68.4,100,Term 1
+S1028,Learner 29,7,B,2026-06-13,English,71.7,100,Term 1
+S1028,Learner 29,7,B,2026-06-13,Social Studies,70.8,100,Term 1
+S1028,Learner 29,7,B,2026-06-13,Hindi,76.9,100,Term 1
+S1028,Learner 29,7,B,2026-07-07,Maths,79.7,100,Term 2
+S1028,Learner 29,7,B,2026-07-07,Science,54.5,100,Term 2
+S1028,Learner 29,7,B,2026-07-07,English,61.2,100,Term 2
+S1028,Learner 29,7,B,2026-07-07,Social Studies,53.6,100,Term 2
+S1028,Learner 29,7,B,2026-07-07,Hindi,55.2,100,Term 2
+S1028,Learner 29,7,B,2026-07-31,English,27.8,100,Term 3
+S1028,Learner 29,7,B,2026-07-31,Social Studies,32.7,100,Term 3
+S1028,Learner 29,7,B,2026-07-31,Hindi,37.1,100,Term 3
+S1029,Learner 30,8,C,2026-06-13,Maths,65.6,100,Term 1
+S1029,Learner 30,8,C,2026-06-13,Science,90.6,100,Term 1
+S1029,Learner 30,8,C,2026-06-13,English,82.6,100,Term 1
+S1029,Learner 30,8,C,2026-06-13,Social Studies,86.6,100,Term 1
+S1029,Learner 30,8,C,2026-06-13,Hindi,79.7,100,Term 1
+S1029,Learner 30,8,C,2026-07-07,Maths,63.9,100,Term 2
+S1029,Learner 30,8,C,2026-07-07,Science,84.8,100,Term 2
+S1029,Learner 30,8,C,2026-07-07,English,74.3,100,Term 2
+S1029,Learner 30,8,C,2026-07-07,Social Studies,68.8,100,Term 2
+S1029,Learner 30,8,C,2026-07-07,Hindi,66.9,100,Term 2
+S1029,Learner 30,8,C,2026-07-31,Maths,63.6,100,Term 3
+S1029,Learner 30,8,C,2026-07-31,Science,70.6,100,Term 3
+S1029,Learner 30,8,C,2026-07-31,English,77.0,100,Term 3
+S1029,Learner 30,8,C,2026-07-31,Social Studies,87.4,100,Term 3
+S1029,Learner 30,8,C,2026-07-31,Hindi,68.7,100,Term 3
+S1030,Learner 31,6,A,2026-06-13,Maths,82.8,100,Term 1
+S1030,Learner 31,6,A,2026-06-13,Science,78.8,100,Term 1
+S1030,Learner 31,6,A,2026-06-13,English,83.2,100,Term 1
+S1030,Learner 31,6,A,2026-06-13,Social Studies,75.4,100,Term 1
+S1030,Learner 31,6,A,2026-06-13,Hindi,62.3,100,Term 1
+S1030,Learner 31,6,A,2026-07-07,Maths,87.0,100,Term 2
+S1030,Learner 31,6,A,2026-07-07,Science,82.3,100,Term 2
+S1030,Learner 31,6,A,2026-07-07,English,63.3,100,Term 2
+S1030,Learner 31,6,A,2026-07-07,Social Studies,75.9,100,Term 2
+S1030,Learner 31,6,A,2026-07-07,Hindi,73.2,100,Term 2
+S1030,Learner 31,6,A,2026-07-31,Maths,98,100,Term 3
+S1030,Learner 31,6,A,2026-07-31,Science,91.2,100,Term 3
+S1030,Learner 31,6,A,2026-07-31,English,76.9,100,Term 3
+S1030,Learner 31,6,A,2026-07-31,Social Studies,73.4,100,Term 3
+S1030,Learner 31,6,A,2026-07-31,Hindi,83.1,100,Term 3
+S1031,Learner 32,7,B,2026-06-13,Maths,78.2,100,Term 1
+S1031,Learner 32,7,B,2026-06-13,Science,82.4,100,Term 1
+S1031,Learner 32,7,B,2026-06-13,English,73.0,100,Term 1
+S1031,Learner 32,7,B,2026-06-13,Social Studies,65.1,100,Term 1
+S1031,Learner 32,7,B,2026-06-13,Hindi,55.6,100,Term 1
+S1031,Learner 32,7,B,2026-07-07,Maths,61.6,100,Term 2
+S1031,Learner 32,7,B,2026-07-07,Science,58.8,100,Term 2
+S1031,Learner 32,7,B,2026-07-07,English,75.5,100,Term 2
+S1031,Learner 32,7,B,2026-07-07,Social Studies,81.8,100,Term 2
+S1031,Learner 32,7,B,2026-07-07,Hindi,92.7,100,Term 2
+S1031,Learner 32,7,B,2026-07-31,Maths,77.9,100,Term 3
+S1031,Learner 32,7,B,2026-07-31,Science,97.4,100,Term 3
+S1031,Learner 32,7,B,2026-07-31,English,92.3,100,Term 3
+S1031,Learner 32,7,B,2026-07-31,Social Studies,74.4,100,Term 3
+S1031,Learner 32,7,B,2026-07-31,Hindi,69.8,100,Term 3
+S1032,Learner 33,8,C,2026-06-13,Maths,78.1,100,Term 1
+S1032,Learner 33,8,C,2026-06-13,Science,70.4,100,Term 1
+S1032,Learner 33,8,C,2026-06-13,English,71.3,100,Term 1
+S1032,Learner 33,8,C,2026-06-13,Social Studies,75.6,100,Term 1
+S1032,Learner 33,8,C,2026-06-13,Hindi,80.8,100,Term 1
+S1032,Learner 33,8,C,2026-07-07,Maths,55.6,100,Term 2
+S1032,Learner 33,8,C,2026-07-07,Science,76.6,100,Term 2
+S1032,Learner 33,8,C,2026-07-07,English,75.7,100,Term 2
+S1032,Learner 33,8,C,2026-07-07,Social Studies,83.6,100,Term 2
+S1032,Learner 33,8,C,2026-07-07,Hindi,65.8,100,Term 2
+S1032,Learner 33,8,C,2026-07-31,Maths,81.1,100,Term 3
+S1032,Learner 33,8,C,2026-07-31,Science,65.4,100,Term 3
+S1032,Learner 33,8,C,2026-07-31,English,66.2,100,Term 3
+S1032,Learner 33,8,C,2026-07-31,Social Studies,66.8,100,Term 3
+S1032,Learner 33,8,C,2026-07-31,Hindi,77.2,100,Term 3
+S1033,Learner 34,6,A,2026-06-13,Maths,72.2,100,Term 1
+S1033,Learner 34,6,A,2026-06-13,Science,87.8,100,Term 1
+S1033,Learner 34,6,A,2026-06-13,English,80.2,100,Term 1
+S1033,Learner 34,6,A,2026-06-13,Social Studies,73.4,100,Term 1
+S1033,Learner 34,6,A,2026-06-13,Hindi,85.7,100,Term 1
+S1033,Learner 34,6,A,2026-07-07,Maths,92.5,100,Term 2
+S1033,Learner 34,6,A,2026-07-07,Science,76.8,100,Term 2
+S1033,Learner 34,6,A,2026-07-07,English,94.6,100,Term 2
+S1033,Learner 34,6,A,2026-07-07,Social Studies,78.8,100,Term 2
+S1033,Learner 34,6,A,2026-07-07,Hindi,80.2,100,Term 2
+S1033,Learner 34,6,A,2026-07-31,Maths,65.7,100,Term 3
+S1033,Learner 34,6,A,2026-07-31,Science,86.4,100,Term 3
+S1033,Learner 34,6,A,2026-07-31,English,86.1,100,Term 3
+S1033,Learner 34,6,A,2026-07-31,Social Studies,78.8,100,Term 3
+S1033,Learner 34,6,A,2026-07-31,Hindi,86.2,100,Term 3
+S1034,Learner 35,7,B,2026-06-13,Maths,97.1,100,Term 1
+S1034,Learner 35,7,B,2026-06-13,Science,93.5,100,Term 1
+S1034,Learner 35,7,B,2026-06-13,English,67.1,100,Term 1
+S1034,Learner 35,7,B,2026-06-13,Social Studies,73.3,100,Term 1
+S1034,Learner 35,7,B,2026-06-13,Hindi,89.4,100,Term 1
+S1034,Learner 35,7,B,2026-07-07,Maths,85.0,100,Term 2
+S1034,Learner 35,7,B,2026-07-07,Science,87.4,100,Term 2
+S1034,Learner 35,7,B,2026-07-07,English,60.3,100,Term 2
+S1034,Learner 35,7,B,2026-07-07,Social Studies,83.7,100,Term 2
+S1034,Learner 35,7,B,2026-07-07,Hindi,81.7,100,Term 2
+S1034,Learner 35,7,B,2026-07-31,Maths,70.5,100,Term 3
+S1034,Learner 35,7,B,2026-07-31,Science,92.0,100,Term 3
+S1034,Learner 35,7,B,2026-07-31,English,84.2,100,Term 3
+S1034,Learner 35,7,B,2026-07-31,Social Studies,86.9,100,Term 3
+S1034,Learner 35,7,B,2026-07-31,Hindi,93.0,100,Term 3
+S1035,Learner 36,8,C,2026-06-13,Maths,73.7,100,Term 1
+S1035,Learner 36,8,C,2026-06-13,Science,79.9,100,Term 1
+S1035,Learner 36,8,C,2026-06-13,English,76.2,100,Term 1
+S1035,Learner 36,8,C,2026-06-13,Social Studies,87.6,100,Term 1
+S1035,Learner 36,8,C,2026-06-13,Hindi,86.1,100,Term 1
+S1035,Learner 36,8,C,2026-07-07,Maths,66.1,100,Term 2
+S1035,Learner 36,8,C,2026-07-07,Science,69.0,100,Term 2
+S1035,Learner 36,8,C,2026-07-07,English,66.2,100,Term 2
+S1035,Learner 36,8,C,2026-07-07,Social Studies,78.8,100,Term 2
+S1035,Learner 36,8,C,2026-07-07,Hindi,64.9,100,Term 2
+S1035,Learner 36,8,C,2026-07-31,Maths,66.7,100,Term 3
+S1035,Learner 36,8,C,2026-07-31,Science,90.1,100,Term 3
+S1035,Learner 36,8,C,2026-07-31,English,67.9,100,Term 3
+S1035,Learner 36,8,C,2026-07-31,Social Studies,82.4,100,Term 3
+S1035,Learner 36,8,C,2026-07-31,Hindi,54.8,100,Term 3
+S1036,Learner 37,6,A,2026-06-13,Maths,59.3,100,Term 1
+S1036,Learner 37,6,A,2026-06-13,Science,37.4,100,Term 1
+S1036,Learner 37,6,A,2026-06-13,English,65.8,100,Term 1
+S1036,Learner 37,6,A,2026-06-13,Social Studies,53.9,100,Term 1
+S1036,Learner 37,6,A,2026-06-13,Hindi,57.2,100,Term 1
+S1036,Learner 37,6,A,2026-07-07,Maths,42.4,100,Term 2
+S1036,Learner 37,6,A,2026-07-07,Science,55.5,100,Term 2
+S1036,Learner 37,6,A,2026-07-07,English,46.6,100,Term 2
+S1036,Learner 37,6,A,2026-07-07,Social Studies,61.1,100,Term 2
+S1036,Learner 37,6,A,2026-07-07,Hindi,47.2,100,Term 2
+S1036,Learner 37,6,A,2026-07-31,Maths,48.9,100,Term 3
+S1036,Learner 37,6,A,2026-07-31,Science,43.7,100,Term 3
+S1036,Learner 37,6,A,2026-07-31,English,48.1,100,Term 3
+S1036,Learner 37,6,A,2026-07-31,Social Studies,59.8,100,Term 3
+S1036,Learner 37,6,A,2026-07-31,Hindi,49.0,100,Term 3
+S1037,Learner 38,7,B,2026-06-13,Maths,68.0,100,Term 1
+S1037,Learner 38,7,B,2026-06-13,Science,49.7,100,Term 1
+S1037,Learner 38,7,B,2026-06-13,English,85.9,100,Term 1
+S1037,Learner 38,7,B,2026-06-13,Social Studies,62.8,100,Term 1
+S1037,Learner 38,7,B,2026-06-13,Hindi,56.9,100,Term 1
+S1037,Learner 38,7,B,2026-07-07,Maths,65.5,100,Term 2
+S1037,Learner 38,7,B,2026-07-07,Science,57.0,100,Term 2
+S1037,Learner 38,7,B,2026-07-07,English,92.7,100,Term 2
+S1037,Learner 38,7,B,2026-07-07,Social Studies,75.4,100,Term 2
+S1037,Learner 38,7,B,2026-07-07,Hindi,74.9,100,Term 2
+S1037,Learner 38,7,B,2026-07-31,Maths,71.5,100,Term 3
+S1037,Learner 38,7,B,2026-07-31,Science,74.2,100,Term 3
+S1037,Learner 38,7,B,2026-07-31,English,77.1,100,Term 3
+S1037,Learner 38,7,B,2026-07-31,Social Studies,78.5,100,Term 3
+S1037,Learner 38,7,B,2026-07-31,Hindi,96.7,100,Term 3
+S1038,Learner 39,8,C,2026-06-13,Maths,46.8,100,Term 1
+S1038,Learner 39,8,C,2026-06-13,Science,46.7,100,Term 1
+S1038,Learner 39,8,C,2026-06-13,English,53.2,100,Term 1
+S1038,Learner 39,8,C,2026-06-13,Social Studies,33.9,100,Term 1
+S1038,Learner 39,8,C,2026-06-13,Hindi,64.7,100,Term 1
+S1038,Learner 39,8,C,2026-07-07,Maths,27.6,100,Term 2
+S1038,Learner 39,8,C,2026-07-07,Science,46.4,100,Term 2
+S1038,Learner 39,8,C,2026-07-07,English,50.1,100,Term 2
+S1038,Learner 39,8,C,2026-07-07,Social Studies,55.0,100,Term 2
+S1038,Learner 39,8,C,2026-07-07,Hindi,43.3,100,Term 2
+S1038,Learner 39,8,C,2026-07-31,Maths,30.7,100,Term 3
+S1038,Learner 39,8,C,2026-07-31,Science,60.2,100,Term 3
+S1038,Learner 39,8,C,2026-07-31,English,57.5,100,Term 3
+S1038,Learner 39,8,C,2026-07-31,Social Studies,61.4,100,Term 3
+S1038,Learner 39,8,C,2026-07-31,Hindi,43.7,100,Term 3
+S1039,Learner 40,6,A,2026-06-13,Maths,53.9,100,Term 1
+S1039,Learner 40,6,A,2026-06-13,Science,85.5,100,Term 1
+S1039,Learner 40,6,A,2026-06-13,English,72.1,100,Term 1
+S1039,Learner 40,6,A,2026-06-13,Social Studies,89.1,100,Term 1
+S1039,Learner 40,6,A,2026-06-13,Hindi,68.1,100,Term 1
+S1039,Learner 40,6,A,2026-07-07,Maths,50.2,100,Term 2
+S1039,Learner 40,6,A,2026-07-07,Science,57.1,100,Term 2
+S1039,Learner 40,6,A,2026-07-07,English,59.9,100,Term 2
+S1039,Learner 40,6,A,2026-07-07,Social Studies,66.0,100,Term 2
+S1039,Learner 40,6,A,2026-07-07,Hindi,59.4,100,Term 2
+S1039,Learner 40,6,A,2026-07-31,Maths,27.1,100,Term 3
+S1039,Learner 40,6,A,2026-07-31,Science,39.0,100,Term 3
+S1039,Learner 40,6,A,2026-07-31,English,55.8,100,Term 3
+S1039,Learner 40,6,A,2026-07-31,Social Studies,46.2,100,Term 3
+S1039,Learner 40,6,A,2026-07-31,Hindi,39.6,100,Term 3
+S1040,Learner 41,7,B,2026-06-13,Maths,61.9,100,Term 1
+S1040,Learner 41,7,B,2026-06-13,Science,81.8,100,Term 1
+S1040,Learner 41,7,B,2026-06-13,English,70.0,100,Term 1
+S1040,Learner 41,7,B,2026-06-13,Social Studies,60.6,100,Term 1
+S1040,Learner 41,7,B,2026-06-13,Hindi,76.1,100,Term 1
+S1040,Learner 41,7,B,2026-07-07,Maths,50.4,100,Term 2
+S1040,Learner 41,7,B,2026-07-07,Science,57.9,100,Term 2
+S1040,Learner 41,7,B,2026-07-07,English,60.4,100,Term 2
+S1040,Learner 41,7,B,2026-07-07,Social Studies,55.5,100,Term 2
+S1040,Learner 41,7,B,2026-07-07,Hindi,51.6,100,Term 2
+S1040,Learner 41,7,B,2026-07-31,Science,31.7,100,Term 3
+S1040,Learner 41,7,B,2026-07-31,English,29.5,100,Term 3
+S1040,Learner 41,7,B,2026-07-31,Social Studies,32.5,100,Term 3
+S1040,Learner 41,7,B,2026-07-31,Hindi,28.8,100,Term 3
+S1041,Learner 42,8,C,2026-06-13,Maths,73.1,100,Term 1
+S1041,Learner 42,8,C,2026-06-13,Science,68.0,100,Term 1
+S1041,Learner 42,8,C,2026-06-13,English,79.4,100,Term 1
+S1041,Learner 42,8,C,2026-06-13,Social Studies,77.5,100,Term 1
+S1041,Learner 42,8,C,2026-06-13,Hindi,85.4,100,Term 1
+S1041,Learner 42,8,C,2026-07-07,Maths,76.9,100,Term 2
+S1041,Learner 42,8,C,2026-07-07,Science,79.1,100,Term 2
+S1041,Learner 42,8,C,2026-07-07,English,79.8,100,Term 2
+S1041,Learner 42,8,C,2026-07-07,Social Studies,49.6,100,Term 2
+S1041,Learner 42,8,C,2026-07-07,Hindi,77.0,100,Term 2
+S1041,Learner 42,8,C,2026-07-31,Maths,72.9,100,Term 3
+S1041,Learner 42,8,C,2026-07-31,Science,68.6,100,Term 3
+S1041,Learner 42,8,C,2026-07-31,English,76.8,100,Term 3
+S1041,Learner 42,8,C,2026-07-31,Social Studies,69.8,100,Term 3
+S1041,Learner 42,8,C,2026-07-31,Hindi,82.9,100,Term 3
+S1042,Learner 43,6,A,2026-06-13,Maths,81.0,100,Term 1
+S1042,Learner 43,6,A,2026-06-13,Science,63.1,100,Term 1
+S1042,Learner 43,6,A,2026-06-13,English,84.3,100,Term 1
+S1042,Learner 43,6,A,2026-06-13,Social Studies,60.8,100,Term 1
+S1042,Learner 43,6,A,2026-06-13,Hindi,81.5,100,Term 1
+S1042,Learner 43,6,A,2026-07-07,Maths,95.2,100,Term 2
+S1042,Learner 43,6,A,2026-07-07,Science,89.0,100,Term 2
+S1042,Learner 43,6,A,2026-07-07,English,65.6,100,Term 2
+S1042,Learner 43,6,A,2026-07-07,Social Studies,91.8,100,Term 2
+S1042,Learner 43,6,A,2026-07-07,Hindi,94.4,100,Term 2
+S1042,Learner 43,6,A,2026-07-31,Maths,79.6,100,Term 3
+S1042,Learner 43,6,A,2026-07-31,Science,78.9,100,Term 3
+S1042,Learner 43,6,A,2026-07-31,English,95.4,100,Term 3
+S1042,Learner 43,6,A,2026-07-31,Social Studies,80.9,100,Term 3
+S1042,Learner 43,6,A,2026-07-31,Hindi,61.9,100,Term 3
+S1043,Learner 44,7,B,2026-06-13,Maths,75.8,100,Term 1
+S1043,Learner 44,7,B,2026-06-13,Science,77.4,100,Term 1
+S1043,Learner 44,7,B,2026-06-13,English,84.0,100,Term 1
+S1043,Learner 44,7,B,2026-06-13,Social Studies,96.2,100,Term 1
+S1043,Learner 44,7,B,2026-06-13,Hindi,84.0,100,Term 1
+S1043,Learner 44,7,B,2026-07-07,Maths,88.3,100,Term 2
+S1043,Learner 44,7,B,2026-07-07,Science,63.4,100,Term 2
+S1043,Learner 44,7,B,2026-07-07,English,68.4,100,Term 2
+S1043,Learner 44,7,B,2026-07-07,Social Studies,78.4,100,Term 2
+S1043,Learner 44,7,B,2026-07-07,Hindi,81.0,100,Term 2
+S1043,Learner 44,7,B,2026-07-31,Maths,98,100,Term 3
+S1043,Learner 44,7,B,2026-07-31,Science,92.3,100,Term 3
+S1043,Learner 44,7,B,2026-07-31,English,65.2,100,Term 3
+S1043,Learner 44,7,B,2026-07-31,Social Studies,85.7,100,Term 3
+S1043,Learner 44,7,B,2026-07-31,Hindi,69.6,100,Term 3
+S1044,Learner 45,8,C,2026-06-13,Maths,73.0,100,Term 1
+S1044,Learner 45,8,C,2026-06-13,Science,77.6,100,Term 1
+S1044,Learner 45,8,C,2026-06-13,English,76.7,100,Term 1
+S1044,Learner 45,8,C,2026-06-13,Social Studies,79.2,100,Term 1
+S1044,Learner 45,8,C,2026-06-13,Hindi,71.8,100,Term 1
+S1044,Learner 45,8,C,2026-07-07,Maths,85.3,100,Term 2
+S1044,Learner 45,8,C,2026-07-07,Science,73.8,100,Term 2
+S1044,Learner 45,8,C,2026-07-07,English,75.1,100,Term 2
+S1044,Learner 45,8,C,2026-07-07,Social Studies,70.6,100,Term 2
+S1044,Learner 45,8,C,2026-07-07,Hindi,77.8,100,Term 2
+S1044,Learner 45,8,C,2026-07-31,Maths,68.6,100,Term 3
+S1044,Learner 45,8,C,2026-07-31,Science,67.9,100,Term 3
+S1044,Learner 45,8,C,2026-07-31,English,85.1,100,Term 3
+S1044,Learner 45,8,C,2026-07-31,Social Studies,81.8,100,Term 3
+S1044,Learner 45,8,C,2026-07-31,Hindi,80.9,100,Term 3
+S1045,Learner 46,6,A,2026-06-13,Maths,78.3,100,Term 1
+S1045,Learner 46,6,A,2026-06-13,Science,68.1,100,Term 1
+S1045,Learner 46,6,A,2026-06-13,English,63.5,100,Term 1
+S1045,Learner 46,6,A,2026-06-13,Social Studies,87.6,100,Term 1
+S1045,Learner 46,6,A,2026-06-13,Hindi,77.1,100,Term 1
+S1045,Learner 46,6,A,2026-07-07,Maths,82.5,100,Term 2
+S1045,Learner 46,6,A,2026-07-07,Science,77.9,100,Term 2
+S1045,Learner 46,6,A,2026-07-07,English,85.7,100,Term 2
+S1045,Learner 46,6,A,2026-07-07,Social Studies,66.5,100,Term 2
+S1045,Learner 46,6,A,2026-07-07,Hindi,86.7,100,Term 2
+S1045,Learner 46,6,A,2026-07-31,Maths,56.1,100,Term 3
+S1045,Learner 46,6,A,2026-07-31,Science,79.6,100,Term 3
+S1045,Learner 46,6,A,2026-07-31,English,90.0,100,Term 3
+S1045,Learner 46,6,A,2026-07-31,Social Studies,80.6,100,Term 3
+S1045,Learner 46,6,A,2026-07-31,Hindi,79.8,100,Term 3
+S1046,Learner 47,7,B,2026-06-13,Maths,69.7,100,Term 1
+S1046,Learner 47,7,B,2026-06-13,Science,86.6,100,Term 1
+S1046,Learner 47,7,B,2026-06-13,English,78.0,100,Term 1
+S1046,Learner 47,7,B,2026-06-13,Social Studies,84.3,100,Term 1
+S1046,Learner 47,7,B,2026-06-13,Hindi,83.4,100,Term 1
+S1046,Learner 47,7,B,2026-07-07,Maths,74.9,100,Term 2
+S1046,Learner 47,7,B,2026-07-07,Science,71.7,100,Term 2
+S1046,Learner 47,7,B,2026-07-07,English,84.4,100,Term 2
+S1046,Learner 47,7,B,2026-07-07,Social Studies,83.7,100,Term 2
+S1046,Learner 47,7,B,2026-07-07,Hindi,79.3,100,Term 2
+S1046,Learner 47,7,B,2026-07-31,Maths,82.4,100,Term 3
+S1046,Learner 47,7,B,2026-07-31,Science,71.3,100,Term 3
+S1046,Learner 47,7,B,2026-07-31,English,77.8,100,Term 3
+S1046,Learner 47,7,B,2026-07-31,Social Studies,84.6,100,Term 3
+S1046,Learner 47,7,B,2026-07-31,Hindi,79.9,100,Term 3
+S1047,Learner 48,8,C,2026-06-13,Maths,53.0,100,Term 1
+S1047,Learner 48,8,C,2026-06-13,Science,80.5,100,Term 1
+S1047,Learner 48,8,C,2026-06-13,English,72.4,100,Term 1
+S1047,Learner 48,8,C,2026-06-13,Social Studies,74.7,100,Term 1
+S1047,Learner 48,8,C,2026-06-13,Hindi,78.8,100,Term 1
+S1047,Learner 48,8,C,2026-07-07,Maths,92.3,100,Term 2
+S1047,Learner 48,8,C,2026-07-07,Science,57.3,100,Term 2
+S1047,Learner 48,8,C,2026-07-07,English,68.2,100,Term 2
+S1047,Learner 48,8,C,2026-07-07,Social Studies,95.2,100,Term 2
+S1047,Learner 48,8,C,2026-07-07,Hindi,71.4,100,Term 2
+S1047,Learner 48,8,C,2026-07-31,Maths,94.5,100,Term 3
+S1047,Learner 48,8,C,2026-07-31,Science,91.3,100,Term 3
+S1047,Learner 48,8,C,2026-07-31,English,68.7,100,Term 3
+S1047,Learner 48,8,C,2026-07-31,Social Studies,74.8,100,Term 3
+S1047,Learner 48,8,C,2026-07-31,Hindi,85.6,100,Term 3
+S1048,Learner 49,6,A,2026-06-13,Maths,68.6,100,Term 1
+S1048,Learner 49,6,A,2026-06-13,Science,52.0,100,Term 1
+S1048,Learner 49,6,A,2026-06-13,English,55.0,100,Term 1
+S1048,Learner 49,6,A,2026-06-13,Social Studies,48.8,100,Term 1
+S1048,Learner 49,6,A,2026-06-13,Hindi,73.6,100,Term 1
+S1048,Learner 49,6,A,2026-07-07,Maths,35.3,100,Term 2
+S1048,Learner 49,6,A,2026-07-07,Science,54.9,100,Term 2
+S1048,Learner 49,6,A,2026-07-07,English,60.8,100,Term 2
+S1048,Learner 49,6,A,2026-07-07,Social Studies,56.0,100,Term 2
+S1048,Learner 49,6,A,2026-07-07,Hindi,48.2,100,Term 2
+S1048,Learner 49,6,A,2026-07-31,Maths,57.2,100,Term 3
+S1048,Learner 49,6,A,2026-07-31,Science,46.1,100,Term 3
+S1048,Learner 49,6,A,2026-07-31,English,42.9,100,Term 3
+S1048,Learner 49,6,A,2026-07-31,Social Studies,72.0,100,Term 3
+S1048,Learner 49,6,A,2026-07-31,Hindi,70.7,100,Term 3
+S1049,Learner 50,7,B,2026-06-13,Maths,57.7,100,Term 1
+S1049,Learner 50,7,B,2026-06-13,Science,76.7,100,Term 1
+S1049,Learner 50,7,B,2026-06-13,English,90.5,100,Term 1
+S1049,Learner 50,7,B,2026-06-13,Social Studies,77.0,100,Term 1
+S1049,Learner 50,7,B,2026-06-13,Hindi,73.8,100,Term 1
+S1049,Learner 50,7,B,2026-07-07,Maths,63.8,100,Term 2
+S1049,Learner 50,7,B,2026-07-07,Science,59.9,100,Term 2
+S1049,Learner 50,7,B,2026-07-07,English,79.0,100,Term 2
+S1049,Learner 50,7,B,2026-07-07,Social Studies,68.9,100,Term 2
+S1049,Learner 50,7,B,2026-07-07,Hindi,74.3,100,Term 2
+S1049,Learner 50,7,B,2026-07-31,Maths,50.4,100,Term 3
+S1049,Learner 50,7,B,2026-07-31,Science,76.1,100,Term 3
+S1049,Learner 50,7,B,2026-07-31,English,72.7,100,Term 3
+S1049,Learner 50,7,B,2026-07-31,Social Studies,71.4,100,Term 3
+S1049,Learner 50,7,B,2026-07-31,Hindi,84.0,100,Term 3
+S1050,Learner 51,8,C,2026-06-13,Maths,16.2,100,Term 1
+S1050,Learner 51,8,C,2026-06-13,Science,49.8,100,Term 1
+S1050,Learner 51,8,C,2026-06-13,English,31.3,100,Term 1
+S1050,Learner 51,8,C,2026-06-13,Social Studies,36.4,100,Term 1
+S1050,Learner 51,8,C,2026-06-13,Hindi,66.9,100,Term 1
+S1050,Learner 51,8,C,2026-07-07,Maths,42.0,100,Term 2
+S1050,Learner 51,8,C,2026-07-07,Science,57.5,100,Term 2
+S1050,Learner 51,8,C,2026-07-07,English,33.4,100,Term 2
+S1050,Learner 51,8,C,2026-07-07,Social Studies,38.6,100,Term 2
+S1050,Learner 51,8,C,2026-07-07,Hindi,57.1,100,Term 2
+S1050,Learner 51,8,C,2026-07-31,English,54.4,100,Term 3
+S1050,Learner 51,8,C,2026-07-31,Social Studies,55.1,100,Term 3
+S1050,Learner 51,8,C,2026-07-31,Hindi,56.0,100,Term 3
+S1051,Learner 52,6,A,2026-06-13,Maths,63.9,100,Term 1
+S1051,Learner 52,6,A,2026-06-13,Science,62.8,100,Term 1
+S1051,Learner 52,6,A,2026-06-13,English,85.4,100,Term 1
+S1051,Learner 52,6,A,2026-06-13,Social Studies,72.2,100,Term 1
+S1051,Learner 52,6,A,2026-06-13,Hindi,75.3,100,Term 1
+S1051,Learner 52,6,A,2026-07-07,Maths,44.6,100,Term 2
+S1051,Learner 52,6,A,2026-07-07,Science,64.9,100,Term 2
+S1051,Learner 52,6,A,2026-07-07,English,55.7,100,Term 2
+S1051,Learner 52,6,A,2026-07-07,Social Studies,46.2,100,Term 2
+S1051,Learner 52,6,A,2026-07-07,Hindi,59.7,100,Term 2
+S1051,Learner 52,6,A,2026-07-31,Maths,39.0,100,Term 3
+S1051,Learner 52,6,A,2026-07-31,Science,36.3,100,Term 3
+S1051,Learner 52,6,A,2026-07-31,English,53.9,100,Term 3
+S1051,Learner 52,6,A,2026-07-31,Social Studies,39.3,100,Term 3
+S1051,Learner 52,6,A,2026-07-31,Hindi,44.0,100,Term 3
+S1052,Learner 53,7,B,2026-06-13,Maths,94.5,100,Term 1
+S1052,Learner 53,7,B,2026-06-13,Science,87.7,100,Term 1
+S1052,Learner 53,7,B,2026-06-13,English,98,100,Term 1
+S1052,Learner 53,7,B,2026-06-13,Social Studies,69.1,100,Term 1
+S1052,Learner 53,7,B,2026-06-13,Hindi,77.9,100,Term 1
+S1052,Learner 53,7,B,2026-07-07,Maths,66.6,100,Term 2
+S1052,Learner 53,7,B,2026-07-07,Science,55.9,100,Term 2
+S1052,Learner 53,7,B,2026-07-07,English,50.4,100,Term 2
+S1052,Learner 53,7,B,2026-07-07,Social Studies,63.1,100,Term 2
+S1052,Learner 53,7,B,2026-07-07,Hindi,56.9,100,Term 2
+S1052,Learner 53,7,B,2026-07-31,English,38.1,100,Term 3
+S1052,Learner 53,7,B,2026-07-31,Social Studies,40.1,100,Term 3
+S1052,Learner 53,7,B,2026-07-31,Hindi,39.8,100,Term 3
+S1053,Learner 54,8,C,2026-06-13,Maths,70.0,100,Term 1
+S1053,Learner 54,8,C,2026-06-13,Science,71.2,100,Term 1
+S1053,Learner 54,8,C,2026-06-13,English,63.7,100,Term 1
+S1053,Learner 54,8,C,2026-06-13,Social Studies,79.6,100,Term 1
+S1053,Learner 54,8,C,2026-06-13,Hindi,74.7,100,Term 1
+S1053,Learner 54,8,C,2026-07-07,Maths,70.7,100,Term 2
+S1053,Learner 54,8,C,2026-07-07,Science,76.3,100,Term 2
+S1053,Learner 54,8,C,2026-07-07,English,81.1,100,Term 2
+S1053,Learner 54,8,C,2026-07-07,Social Studies,81.5,100,Term 2
+S1053,Learner 54,8,C,2026-07-07,Hindi,74.6,100,Term 2
+S1053,Learner 54,8,C,2026-07-31,Maths,83.9,100,Term 3
+S1053,Learner 54,8,C,2026-07-31,Science,85.2,100,Term 3
+S1053,Learner 54,8,C,2026-07-31,English,57.8,100,Term 3
+S1053,Learner 54,8,C,2026-07-31,Social Studies,65.8,100,Term 3
+S1053,Learner 54,8,C,2026-07-31,Hindi,82.8,100,Term 3
+S1054,Learner 55,6,A,2026-06-13,Maths,78.6,100,Term 1
+S1054,Learner 55,6,A,2026-06-13,Science,82.6,100,Term 1
+S1054,Learner 55,6,A,2026-06-13,English,87.5,100,Term 1
+S1054,Learner 55,6,A,2026-06-13,Social Studies,66.2,100,Term 1
+S1054,Learner 55,6,A,2026-06-13,Hindi,79.0,100,Term 1
+S1054,Learner 55,6,A,2026-07-07,Maths,87.2,100,Term 2
+S1054,Learner 55,6,A,2026-07-07,Science,66.5,100,Term 2
+S1054,Learner 55,6,A,2026-07-07,English,92.0,100,Term 2
+S1054,Learner 55,6,A,2026-07-07,Social Studies,56.7,100,Term 2
+S1054,Learner 55,6,A,2026-07-07,Hindi,73.2,100,Term 2
+S1054,Learner 55,6,A,2026-07-31,Maths,98,100,Term 3
+S1054,Learner 55,6,A,2026-07-31,Science,73.3,100,Term 3
+S1054,Learner 55,6,A,2026-07-31,English,77.8,100,Term 3
+S1054,Learner 55,6,A,2026-07-31,Social Studies,80.0,100,Term 3
+S1054,Learner 55,6,A,2026-07-31,Hindi,73.6,100,Term 3
+S1055,Learner 56,7,B,2026-06-13,Maths,84.2,100,Term 1
+S1055,Learner 56,7,B,2026-06-13,Science,76.9,100,Term 1
+S1055,Learner 56,7,B,2026-06-13,English,69.7,100,Term 1
+S1055,Learner 56,7,B,2026-06-13,Social Studies,98,100,Term 1
+S1055,Learner 56,7,B,2026-06-13,Hindi,83.2,100,Term 1
+S1055,Learner 56,7,B,2026-07-07,Maths,68.4,100,Term 2
+S1055,Learner 56,7,B,2026-07-07,Science,56.9,100,Term 2
+S1055,Learner 56,7,B,2026-07-07,English,72.4,100,Term 2
+S1055,Learner 56,7,B,2026-07-07,Social Studies,81.1,100,Term 2
+S1055,Learner 56,7,B,2026-07-07,Hindi,62.4,100,Term 2
+S1055,Learner 56,7,B,2026-07-31,Maths,71.0,100,Term 3
+S1055,Learner 56,7,B,2026-07-31,Science,75.6,100,Term 3
+S1055,Learner 56,7,B,2026-07-31,English,76.6,100,Term 3
+S1055,Learner 56,7,B,2026-07-31,Social Studies,90.6,100,Term 3
+S1055,Learner 56,7,B,2026-07-31,Hindi,60.6,100,Term 3
+S1056,Learner 57,8,C,2026-06-13,Maths,66.7,100,Term 1
+S1056,Learner 57,8,C,2026-06-13,Science,96.6,100,Term 1
+S1056,Learner 57,8,C,2026-06-13,English,60.8,100,Term 1
+S1056,Learner 57,8,C,2026-06-13,Social Studies,77.4,100,Term 1
+S1056,Learner 57,8,C,2026-06-13,Hindi,79.7,100,Term 1
+S1056,Learner 57,8,C,2026-07-07,Maths,86.4,100,Term 2
+S1056,Learner 57,8,C,2026-07-07,Science,68.2,100,Term 2
+S1056,Learner 57,8,C,2026-07-07,English,82.4,100,Term 2
+S1056,Learner 57,8,C,2026-07-07,Social Studies,90.0,100,Term 2
+S1056,Learner 57,8,C,2026-07-07,Hindi,75.7,100,Term 2
+S1056,Learner 57,8,C,2026-07-31,Maths,83.3,100,Term 3
+S1056,Learner 57,8,C,2026-07-31,Science,67.9,100,Term 3
+S1056,Learner 57,8,C,2026-07-31,English,85.1,100,Term 3
+S1056,Learner 57,8,C,2026-07-31,Social Studies,74.3,100,Term 3
+S1056,Learner 57,8,C,2026-07-31,Hindi,72.5,100,Term 3
+S1057,Learner 58,6,A,2026-06-13,Maths,75.2,100,Term 1
+S1057,Learner 58,6,A,2026-06-13,Science,62.0,100,Term 1
+S1057,Learner 58,6,A,2026-06-13,English,61.3,100,Term 1
+S1057,Learner 58,6,A,2026-06-13,Social Studies,78.6,100,Term 1
+S1057,Learner 58,6,A,2026-06-13,Hindi,76.4,100,Term 1
+S1057,Learner 58,6,A,2026-07-07,Maths,74.7,100,Term 2
+S1057,Learner 58,6,A,2026-07-07,Science,61.1,100,Term 2
+S1057,Learner 58,6,A,2026-07-07,English,78.3,100,Term 2
+S1057,Learner 58,6,A,2026-07-07,Social Studies,72.3,100,Term 2
+S1057,Learner 58,6,A,2026-07-07,Hindi,62.0,100,Term 2
+S1057,Learner 58,6,A,2026-07-31,Maths,86.7,100,Term 3
+S1057,Learner 58,6,A,2026-07-31,Science,98,100,Term 3
+S1057,Learner 58,6,A,2026-07-31,English,77.6,100,Term 3
+S1057,Learner 58,6,A,2026-07-31,Social Studies,68.9,100,Term 3
+S1057,Learner 58,6,A,2026-07-31,Hindi,53.2,100,Term 3
+S1058,Learner 59,7,B,2026-06-13,Maths,86.6,100,Term 1
+S1058,Learner 59,7,B,2026-06-13,Science,78.7,100,Term 1
+S1058,Learner 59,7,B,2026-06-13,English,85.9,100,Term 1
+S1058,Learner 59,7,B,2026-06-13,Social Studies,96.8,100,Term 1
+S1058,Learner 59,7,B,2026-06-13,Hindi,70.9,100,Term 1
+S1058,Learner 59,7,B,2026-07-07,Maths,77.8,100,Term 2
+S1058,Learner 59,7,B,2026-07-07,Science,92.2,100,Term 2
+S1058,Learner 59,7,B,2026-07-07,English,66.6,100,Term 2
+S1058,Learner 59,7,B,2026-07-07,Social Studies,87.4,100,Term 2
+S1058,Learner 59,7,B,2026-07-07,Hindi,76.6,100,Term 2
+S1058,Learner 59,7,B,2026-07-31,Maths,70.8,100,Term 3
+S1058,Learner 59,7,B,2026-07-31,Science,77.2,100,Term 3
+S1058,Learner 59,7,B,2026-07-31,English,82.9,100,Term 3
+S1058,Learner 59,7,B,2026-07-31,Social Studies,75.7,100,Term 3
+S1058,Learner 59,7,B,2026-07-31,Hindi,78.7,100,Term 3
+S1059,Learner 60,8,C,2026-06-13,Maths,82.7,100,Term 1
+S1059,Learner 60,8,C,2026-06-13,Science,83.7,100,Term 1
+S1059,Learner 60,8,C,2026-06-13,English,72.5,100,Term 1
+S1059,Learner 60,8,C,2026-06-13,Social Studies,77.9,100,Term 1
+S1059,Learner 60,8,C,2026-06-13,Hindi,55.2,100,Term 1
+S1059,Learner 60,8,C,2026-07-07,Maths,64.2,100,Term 2
+S1059,Learner 60,8,C,2026-07-07,Science,67.7,100,Term 2
+S1059,Learner 60,8,C,2026-07-07,English,71.6,100,Term 2
+S1059,Learner 60,8,C,2026-07-07,Social Studies,73.0,100,Term 2
+S1059,Learner 60,8,C,2026-07-07,Hindi,65.7,100,Term 2
+S1059,Learner 60,8,C,2026-07-31,Maths,81.2,100,Term 3
+S1059,Learner 60,8,C,2026-07-31,Science,86.2,100,Term 3
+S1059,Learner 60,8,C,2026-07-31,English,90.9,100,Term 3
+S1059,Learner 60,8,C,2026-07-31,Social Studies,77.7,100,Term 3
+S1059,Learner 60,8,C,2026-07-31,Hindi,81.1,100,Term 3
+S1060,Learner 61,6,A,2026-06-13,Maths,59.1,100,Term 1
+S1060,Learner 61,6,A,2026-06-13,Science,67.6,100,Term 1
+S1060,Learner 61,6,A,2026-06-13,English,47.0,100,Term 1
+S1060,Learner 61,6,A,2026-06-13,Social Studies,58.3,100,Term 1
+S1060,Learner 61,6,A,2026-06-13,Hindi,38.7,100,Term 1
+S1060,Learner 61,6,A,2026-07-07,Maths,40.6,100,Term 2
+S1060,Learner 61,6,A,2026-07-07,Science,39.3,100,Term 2
+S1060,Learner 61,6,A,2026-07-07,English,57.5,100,Term 2
+S1060,Learner 61,6,A,2026-07-07,Social Studies,49.6,100,Term 2
+S1060,Learner 61,6,A,2026-07-07,Hindi,51.9,100,Term 2
+S1060,Learner 61,6,A,2026-07-31,Maths,42.6,100,Term 3
+S1060,Learner 61,6,A,2026-07-31,Science,50.3,100,Term 3
+S1060,Learner 61,6,A,2026-07-31,English,69.6,100,Term 3
+S1060,Learner 61,6,A,2026-07-31,Social Studies,35.3,100,Term 3
+S1060,Learner 61,6,A,2026-07-31,Hindi,39.4,100,Term 3
+S1061,Learner 62,7,B,2026-06-13,Maths,73.4,100,Term 1
+S1061,Learner 62,7,B,2026-06-13,Science,66.6,100,Term 1
+S1061,Learner 62,7,B,2026-06-13,English,76.6,100,Term 1
+S1061,Learner 62,7,B,2026-06-13,Social Studies,77.6,100,Term 1
+S1061,Learner 62,7,B,2026-06-13,Hindi,60.3,100,Term 1
+S1061,Learner 62,7,B,2026-07-07,Maths,60.5,100,Term 2
+S1061,Learner 62,7,B,2026-07-07,Science,75.5,100,Term 2
+S1061,Learner 62,7,B,2026-07-07,English,79.8,100,Term 2
+S1061,Learner 62,7,B,2026-07-07,Social Studies,82.2,100,Term 2
+S1061,Learner 62,7,B,2026-07-07,Hindi,76.2,100,Term 2
+S1061,Learner 62,7,B,2026-07-31,Maths,63.7,100,Term 3
+S1061,Learner 62,7,B,2026-07-31,Science,75.2,100,Term 3
+S1061,Learner 62,7,B,2026-07-31,English,77.0,100,Term 3
+S1061,Learner 62,7,B,2026-07-31,Social Studies,83.8,100,Term 3
+S1061,Learner 62,7,B,2026-07-31,Hindi,68.9,100,Term 3
+S1062,Learner 63,8,C,2026-06-13,Maths,15,100,Term 1
+S1062,Learner 63,8,C,2026-06-13,Science,55.9,100,Term 1
+S1062,Learner 63,8,C,2026-06-13,English,51.6,100,Term 1
+S1062,Learner 63,8,C,2026-06-13,Social Studies,75.3,100,Term 1
+S1062,Learner 63,8,C,2026-06-13,Hindi,40.4,100,Term 1
+S1062,Learner 63,8,C,2026-07-07,Maths,44.4,100,Term 2
+S1062,Learner 63,8,C,2026-07-07,Science,58.3,100,Term 2
+S1062,Learner 63,8,C,2026-07-07,English,42.3,100,Term 2
+S1062,Learner 63,8,C,2026-07-07,Social Studies,49.8,100,Term 2
+S1062,Learner 63,8,C,2026-07-07,Hindi,41.1,100,Term 2
+S1062,Learner 63,8,C,2026-07-31,English,56.7,100,Term 3
+S1062,Learner 63,8,C,2026-07-31,Social Studies,56.1,100,Term 3
+S1062,Learner 63,8,C,2026-07-31,Hindi,54.0,100,Term 3
+S1063,Learner 64,6,A,2026-06-13,Maths,75.7,100,Term 1
+S1063,Learner 64,6,A,2026-06-13,Science,83.6,100,Term 1
+S1063,Learner 64,6,A,2026-06-13,English,73.4,100,Term 1
+S1063,Learner 64,6,A,2026-06-13,Social Studies,68.6,100,Term 1
+S1063,Learner 64,6,A,2026-06-13,Hindi,80.2,100,Term 1
+S1063,Learner 64,6,A,2026-07-07,Maths,30.4,100,Term 2
+S1063,Learner 64,6,A,2026-07-07,Science,51.7,100,Term 2
+S1063,Learner 64,6,A,2026-07-07,English,67.8,100,Term 2
+S1063,Learner 64,6,A,2026-07-07,Social Studies,66.7,100,Term 2
+S1063,Learner 64,6,A,2026-07-07,Hindi,79.3,100,Term 2
+S1063,Learner 64,6,A,2026-07-31,Maths,25.0,100,Term 3
+S1063,Learner 64,6,A,2026-07-31,Science,38.8,100,Term 3
+S1063,Learner 64,6,A,2026-07-31,English,48.7,100,Term 3
+S1063,Learner 64,6,A,2026-07-31,Social Studies,52.6,100,Term 3
+S1063,Learner 64,6,A,2026-07-31,Hindi,28.1,100,Term 3
+S1064,Learner 65,7,B,2026-06-13,Maths,86.5,100,Term 1
+S1064,Learner 65,7,B,2026-06-13,Science,78.3,100,Term 1
+S1064,Learner 65,7,B,2026-06-13,English,93.7,100,Term 1
+S1064,Learner 65,7,B,2026-06-13,Social Studies,77.4,100,Term 1
+S1064,Learner 65,7,B,2026-06-13,Hindi,71.8,100,Term 1
+S1064,Learner 65,7,B,2026-07-07,Maths,52.4,100,Term 2
+S1064,Learner 65,7,B,2026-07-07,Science,54.6,100,Term 2
+S1064,Learner 65,7,B,2026-07-07,English,53.3,100,Term 2
+S1064,Learner 65,7,B,2026-07-07,Social Studies,40.6,100,Term 2
+S1064,Learner 65,7,B,2026-07-07,Hindi,59.9,100,Term 2
+S1064,Learner 65,7,B,2026-07-31,Science,33.0,100,Term 3
+S1064,Learner 65,7,B,2026-07-31,English,35.0,100,Term 3
+S1064,Learner 65,7,B,2026-07-31,Social Studies,37.8,100,Term 3
+S1064,Learner 65,7,B,2026-07-31,Hindi,44.7,100,Term 3
+S1065,Learner 66,8,C,2026-06-13,Maths,88.4,100,Term 1
+S1065,Learner 66,8,C,2026-06-13,Science,87.0,100,Term 1
+S1065,Learner 66,8,C,2026-06-13,English,84.9,100,Term 1
+S1065,Learner 66,8,C,2026-06-13,Social Studies,76.4,100,Term 1
+S1065,Learner 66,8,C,2026-06-13,Hindi,83.7,100,Term 1
+S1065,Learner 66,8,C,2026-07-07,Maths,65.1,100,Term 2
+S1065,Learner 66,8,C,2026-07-07,Science,81.7,100,Term 2
+S1065,Learner 66,8,C,2026-07-07,English,75.6,100,Term 2
+S1065,Learner 66,8,C,2026-07-07,Social Studies,73.5,100,Term 2
+S1065,Learner 66,8,C,2026-07-07,Hindi,74.9,100,Term 2
+S1065,Learner 66,8,C,2026-07-31,Maths,69.0,100,Term 3
+S1065,Learner 66,8,C,2026-07-31,Science,72.4,100,Term 3
+S1065,Learner 66,8,C,2026-07-31,English,89.8,100,Term 3
+S1065,Learner 66,8,C,2026-07-31,Social Studies,71.0,100,Term 3
+S1065,Learner 66,8,C,2026-07-31,Hindi,63.1,100,Term 3
+S1066,Learner 67,6,A,2026-06-13,Maths,81.5,100,Term 1
+S1066,Learner 67,6,A,2026-06-13,Science,72.1,100,Term 1
+S1066,Learner 67,6,A,2026-06-13,English,70.5,100,Term 1
+S1066,Learner 67,6,A,2026-06-13,Social Studies,89.7,100,Term 1
+S1066,Learner 67,6,A,2026-06-13,Hindi,75.6,100,Term 1
+S1066,Learner 67,6,A,2026-07-07,Maths,81.8,100,Term 2
+S1066,Learner 67,6,A,2026-07-07,Science,78.5,100,Term 2
+S1066,Learner 67,6,A,2026-07-07,English,93.0,100,Term 2
+S1066,Learner 67,6,A,2026-07-07,Social Studies,83.4,100,Term 2
+S1066,Learner 67,6,A,2026-07-07,Hindi,61.9,100,Term 2
+S1066,Learner 67,6,A,2026-07-31,Maths,93.2,100,Term 3
+S1066,Learner 67,6,A,2026-07-31,Science,71.4,100,Term 3
+S1066,Learner 67,6,A,2026-07-31,English,72.8,100,Term 3
+S1066,Learner 67,6,A,2026-07-31,Social Studies,84.1,100,Term 3
+S1066,Learner 67,6,A,2026-07-31,Hindi,75.4,100,Term 3
+S1067,Learner 68,7,B,2026-06-13,Maths,72.7,100,Term 1
+S1067,Learner 68,7,B,2026-06-13,Science,72.7,100,Term 1
+S1067,Learner 68,7,B,2026-06-13,English,73.3,100,Term 1
+S1067,Learner 68,7,B,2026-06-13,Social Studies,87.4,100,Term 1
+S1067,Learner 68,7,B,2026-06-13,Hindi,79.6,100,Term 1
+S1067,Learner 68,7,B,2026-07-07,Maths,89.5,100,Term 2
+S1067,Learner 68,7,B,2026-07-07,Science,94.8,100,Term 2
+S1067,Learner 68,7,B,2026-07-07,English,84.0,100,Term 2
+S1067,Learner 68,7,B,2026-07-07,Social Studies,68.2,100,Term 2
+S1067,Learner 68,7,B,2026-07-07,Hindi,77.6,100,Term 2
+S1067,Learner 68,7,B,2026-07-31,Maths,80.8,100,Term 3
+S1067,Learner 68,7,B,2026-07-31,Science,63.9,100,Term 3
+S1067,Learner 68,7,B,2026-07-31,English,75.5,100,Term 3
+S1067,Learner 68,7,B,2026-07-31,Social Studies,65.7,100,Term 3
+S1067,Learner 68,7,B,2026-07-31,Hindi,88.0,100,Term 3
+S1068,Learner 69,8,C,2026-06-13,Maths,59.0,100,Term 1
+S1068,Learner 69,8,C,2026-06-13,Science,72.8,100,Term 1
+S1068,Learner 69,8,C,2026-06-13,English,79.0,100,Term 1
+S1068,Learner 69,8,C,2026-06-13,Social Studies,78.4,100,Term 1
+S1068,Learner 69,8,C,2026-06-13,Hindi,67.3,100,Term 1
+S1068,Learner 69,8,C,2026-07-07,Maths,83.5,100,Term 2
+S1068,Learner 69,8,C,2026-07-07,Science,75.8,100,Term 2
+S1068,Learner 69,8,C,2026-07-07,English,90.9,100,Term 2
+S1068,Learner 69,8,C,2026-07-07,Social Studies,77.5,100,Term 2
+S1068,Learner 69,8,C,2026-07-07,Hindi,84.6,100,Term 2
+S1068,Learner 69,8,C,2026-07-31,Maths,60.4,100,Term 3
+S1068,Learner 69,8,C,2026-07-31,Science,78.3,100,Term 3
+S1068,Learner 69,8,C,2026-07-31,English,77.2,100,Term 3
+S1068,Learner 69,8,C,2026-07-31,Social Studies,66.4,100,Term 3
+S1068,Learner 69,8,C,2026-07-31,Hindi,54.4,100,Term 3
+S1069,Learner 70,6,A,2026-06-13,Maths,83.5,100,Term 1
+S1069,Learner 70,6,A,2026-06-13,Science,88.7,100,Term 1
+S1069,Learner 70,6,A,2026-06-13,English,70.4,100,Term 1
+S1069,Learner 70,6,A,2026-06-13,Social Studies,84.7,100,Term 1
+S1069,Learner 70,6,A,2026-06-13,Hindi,82.8,100,Term 1
+S1069,Learner 70,6,A,2026-07-07,Maths,70.7,100,Term 2
+S1069,Learner 70,6,A,2026-07-07,Science,69.9,100,Term 2
+S1069,Learner 70,6,A,2026-07-07,English,98,100,Term 2
+S1069,Learner 70,6,A,2026-07-07,Social Studies,82.6,100,Term 2
+S1069,Learner 70,6,A,2026-07-07,Hindi,80.4,100,Term 2
+S1069,Learner 70,6,A,2026-07-31,Maths,73.2,100,Term 3
+S1069,Learner 70,6,A,2026-07-31,Science,62.4,100,Term 3
+S1069,Learner 70,6,A,2026-07-31,English,79.0,100,Term 3
+S1069,Learner 70,6,A,2026-07-31,Social Studies,74.8,100,Term 3
+S1069,Learner 70,6,A,2026-07-31,Hindi,79.6,100,Term 3
+S1070,Learner 71,7,B,2026-06-13,Maths,76.1,100,Term 1
+S1070,Learner 71,7,B,2026-06-13,Science,58.8,100,Term 1
+S1070,Learner 71,7,B,2026-06-13,English,72.1,100,Term 1
+S1070,Learner 71,7,B,2026-06-13,Social Studies,77.6,100,Term 1
+S1070,Learner 71,7,B,2026-06-13,Hindi,72.5,100,Term 1
+S1070,Learner 71,7,B,2026-07-07,Maths,78.7,100,Term 2
+S1070,Learner 71,7,B,2026-07-07,Science,79.2,100,Term 2
+S1070,Learner 71,7,B,2026-07-07,English,75.3,100,Term 2
+S1070,Learner 71,7,B,2026-07-07,Social Studies,72.0,100,Term 2
+S1070,Learner 71,7,B,2026-07-07,Hindi,92.6,100,Term 2
+S1070,Learner 71,7,B,2026-07-31,Maths,79.1,100,Term 3
+S1070,Learner 71,7,B,2026-07-31,Science,79.6,100,Term 3
+S1070,Learner 71,7,B,2026-07-31,English,81.4,100,Term 3
+S1070,Learner 71,7,B,2026-07-31,Social Studies,78.6,100,Term 3
+S1070,Learner 71,7,B,2026-07-31,Hindi,57.5,100,Term 3
+S1071,Learner 72,8,C,2026-06-13,Maths,72.2,100,Term 1
+S1071,Learner 72,8,C,2026-06-13,Science,79.0,100,Term 1
+S1071,Learner 72,8,C,2026-06-13,English,81.4,100,Term 1
+S1071,Learner 72,8,C,2026-06-13,Social Studies,77.0,100,Term 1
+S1071,Learner 72,8,C,2026-06-13,Hindi,65.5,100,Term 1
+S1071,Learner 72,8,C,2026-07-07,Maths,73.3,100,Term 2
+S1071,Learner 72,8,C,2026-07-07,Science,80.4,100,Term 2
+S1071,Learner 72,8,C,2026-07-07,English,77.2,100,Term 2
+S1071,Learner 72,8,C,2026-07-07,Social Studies,98,100,Term 2
+S1071,Learner 72,8,C,2026-07-07,Hindi,81.8,100,Term 2
+S1071,Learner 72,8,C,2026-07-31,Maths,81.2,100,Term 3
+S1071,Learner 72,8,C,2026-07-31,Science,74.8,100,Term 3
+S1071,Learner 72,8,C,2026-07-31,English,54.9,100,Term 3
+S1071,Learner 72,8,C,2026-07-31,Social Studies,85.3,100,Term 3
+S1071,Learner 72,8,C,2026-07-31,Hindi,69.6,100,Term 3

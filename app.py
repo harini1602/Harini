@@ -3,6 +3,8 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
+# Streamlit Cloud can launch from a working directory that is not the repo root;
+# keep local src imports deterministic after merges/deploys.
 APP_ROOT = Path(__file__).resolve().parent
 if str(APP_ROOT) not in sys.path:
     sys.path.insert(0, str(APP_ROOT))
