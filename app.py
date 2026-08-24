@@ -1,8 +1,17 @@
 import json
+import sys
+from pathlib import Path
 from datetime import datetime
+
+# Streamlit Cloud can launch from a working directory that is not the repo root;
+# keep local src imports deterministic after merges/deploys.
+APP_ROOT = Path(__file__).resolve().parent
+if str(APP_ROOT) not in sys.path:
+    sys.path.insert(0, str(APP_ROOT))
+
 import pandas as pd
 import streamlit as st
-from config import APP_NAME, TAGLINE, ENCRYPTION_READY
+from src.config import APP_NAME, TAGLINE, ENCRYPTION_READY
 from src.auth import authenticate, can
 from src.audit import log_event, get_audit_logs
 from src.database import connect, init_db, insert_batch, latest_batch_id
